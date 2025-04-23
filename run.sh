@@ -1,1 +1,1 @@
-curl "https://cmr.earthdata.nasa.gov/search/collections.csv?data_center=ASF&page_size=2000" --output data.csv
+curl "https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Urban_Tree_Canopy/MapServer/4/query?outFields=*&where=1%3D1&f=geojson" --output 2024dccanopy.geojson
