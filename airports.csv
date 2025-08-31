@@ -44271,7 +44271,7 @@
 31026,"LV-8038","closed","Jelgava Airfield",56.672798,23.679199,20,"EU","LV","LV-JEL","Jelgava","no",,,,,,,"EVEA"
 31027,"LV-8039","closed","Vaiņode Air Base",56.405781,21.887198,518,"EU","LV","LV-112","Vaiņode","no",,,,,,"https://en.wikipedia.org/wiki/Vai%C5%86ode_Air_Base","EVFA, Vainodo, Vainede, Vaynede, Vaynodo, Toyvanede"
 44006,"LV-8040","closed","Daugavpils International Airport",55.944721,26.665001,398,"EU","LV","LV-111","Daugavpils","no",,,,,,"https://en.wikipedia.org/wiki/Daugavpils_International_Airport","EVDA, DGP"
-324016,"LV-8041","closed","Augstkalne Airfield",56.41318,23.319409,,"EU","LV","LV-026","Augstkalne","no",,,,,,,"EVMA, EVMA"
+324016,"LV-8041","closed","Augstkalne Airfield",56.41318,23.319409,187,"EU","LV","LV-026","Augstkalne","no",,,,,,"https://lv.wikipedia.org/wiki/Augstkalnes_lidlauks","EVMA"
 324017,"LV-8042","closed","Rēzekne Airfield",56.556389,27.212778,,"EU","LV","LV-077","Rēzekne","no",,,,,,"https://en.wikipedia.org/wiki/Rezekne_Airport","EVNA"
 44005,"LV-8043","small_airport","Cesis ""old"" airfield",57.32379,25.323229,367,"EU","LV","LV-022","Cesis","no",,,,,,,
 599301,"LV-8044","small_airport","Saraiķi lidlauks",56.698941,21.062459,,"EU","LV","LV-U-A","Saraiķi","no",,,,,,,
@@ -61944,6 +61944,14 @@
 599347,"SS6E","small_airport","Aerosítio Airport",-3.84334,-38.445139,59,"SA","BR","BR-CE","Eusébio","no",,,"SS6E","CE0117",,,
 599348,"SS6G","heliport","Uberlândia Federal University Hospital Helipad",-18.881432,-48.260474,3186,"SA","BR","BR-MG","Uberlândia","no",,,"SS6G","MG0457",,,"UFU-8DJU"
 599349,"SS6H","small_airport","Fazenda São Judas Tadeu Airport",-20.928857,-52.683081,1151,"SA","BR","BR-MS","Brasilândia","no",,,"SS6H","MS0780",,,
+600139,"SS6K","small_airport","Fazenda Geriva Airport",-21.153283,-52.476769,1289,"SA","BR","BR-MS","Brasilândia","no",,,"SS6K","MS0782",,,
+600141,"SS6L","small_airport","Fazenda Pajeú Airport",-4.95412,-44.25049,635,"SA","BR","BR-MA","Governador Archer","no",,,"SS6L","MA0205",,,
+600143,"SS6M","heliport","BSM Heliport",-18.528303,-44.619664,2174,"SA","BR","BR-MG","Morro da Garça","no",,,"SS6M","MG0641",,,
+600145,"SS6P","small_airport","Fazenda São Pedro",-16.272358,-59.184093,633,"SA","BR","BR-MT","Porto Esperidião","no",,,"SS6P","MT0545",,,
+600146,"SS6Q","heliport","Aviação Santa Bárbara Heliport",-28.340139,-53.157889,1555,"SA","BR","BR-RS","Santa Bárbara do Sul","no",,,"SS6Q","RS0224",,,
+600152,"SS6R","small_airport","Aero Desejo Airstrip",-16.501336,-39.099983,180,"SA","BR","BR-BA","Porto Seguro","no",,,"SS6R","BA0283",,,
+600148,"SS6S","heliport","Samuel Libânio  Hospital Helipad",-22.226904,-45.930511,2812,"SA","BR","BR-MG","Pouso Alegre","no",,,"SS6S","MG0632",,,
+600154,"SS6T","small_airport","MJ Marino Franz Airport",-12.367307,-56.252532,1280,"SA","BR","BR-MT","Ipiranga do Norte","no",,,"SS6T","MT1130",,,"Mano Julio"
 598551,"SS7Z","small_airport","Fazenda Paraiso Arpa Airport",-11.298736,-49.63974,650,"SA","BR","BR-TO","Dueré","no",,,"SS7Z","TO0154",,,
 598536,"SS82","small_airport","Carará Airport",-0.075011,-53.11976,529,"SA","BR","BR-PA","Almeirim","no",,,"SS82","PA0426",,,
 598535,"SS83","small_airport","Fazenda Cochilo Airport",-17.118721,-45.421015,1850,"SA","BR","BR-MG","Buritizeiro","no",,,"SS83","MG0633",,,
