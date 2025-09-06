@@ -11751,6 +11751,7 @@
 599573,"AU-0781","small_airport","Karalundi Airport",-26.128817,118.676205,,"OC","AU","AU-WA",,"no",,,,"Y0C6",,,
 599999,"AU-0782","small_airport","Stratford",-37.953674,147.092582,180,"OC","AU","AU-VIC","Stratford","no",,,,,,,"Private"
 600001,"AU-0783","small_airport","JDandBoo",-37.85774,146.91748,380,"OC","AU","AU-VIC","Boisdale","no","YJBO",,,,,,"Private, PPR"
+600239,"AU-0784","heliport","Wisemans Ferry Helicopter Landing Site",-33.3835,150.988667,6,"OC","AU","AU-NSW","Wisemans Ferry","no",,,,"OZHFX",,,
 30622,"AU-AGW","small_airport","Agnew Airport",-12.1456,142.149369,160,"OC","AU","AU-QLD","Agnew","no",,"AGW","YAGN",,,"https://en.wikipedia.org/wiki/Agnew_Airport",
 30666,"AU-AYD","small_airport","Alroy Downs Airport",-19.2908,136.078995,711,"OC","AU","AU-NT","Alroy Downs","no",,"AYD","YALD",,,,
 30808,"AU-BYX","small_airport","Baniyala Airport",-13.1981,136.227005,20,"OC","AU","AU-NT","Baniyala","no",,"BYX","YBNI",,,,
@@ -12340,6 +12341,7 @@
 575092,"BA-0012","small_airport","Koprivna Begovac Airfield",44.9157,18.15029,466,"EU","BA","BA-SRP","Modriča","no",,,,,,,
 324125,"BA-0013","closed","Ćoralići Air Base",44.980871,15.869373,,"EU","BA","BA-BIH","Ćoralići","no",,,,,,,"LQCO, LQCO"
 324126,"BA-0014","closed","Glamoč Air Base",44.083894,16.813588,3034,"EU","BA","BA-BIH","Glamoč","no",,,,,,,"LQGL"
+600240,"BA-0015","heliport","Banja Luka Hospital Heliport",44.784259,17.175871,790,"EU","BA","BA-SRP","Banja Luka","no",,,,,,,
 301840,"BAJ","small_airport","Bali Airport",-4.8833333333299995,149.133333333,90,"OC","PG","PG-WBK","Unea Island","no",,"BAJ",,"BALI",,,
 27301,"BCW","medium_airport","Benguera Island Airport",-21.8533,35.438301,,"AF","MZ","MZ-I","Benguera Island","no",,"BCW",,,,"https://en.wikipedia.org/wiki/Benguera_Island_Airport",
 301872,"BCZ","small_airport","Milyakburra Airport",-13.780833333299999,136.201666667,85,"OC","AU","AU-NT","Bickerton Island","no",,"BCZ",,"YBIC",,"https://en.wikipedia.org/wiki/Bickerton_Island",
@@ -16135,6 +16137,7 @@
 599970,"BR-3271","small_airport","Americano Brito Airport",-3.25825,-39.342575,108,"SA","BR","BR-CE","Trairi","no",,,"SD00","CE0180",,,
 599991,"BR-3272","small_airport","PR Empreendimentos Agrícolas Airport",-8.068472,-47.46485,899,"SA","BR","BR-TO","Goiatins","no",,,"SD06","TO0158",,,
 599994,"BR-3273","small_airport","Fazenda Ceres Airport",-13.182736,-45.636497,2618,"SA","BR","BR-BA","São Desidério","no",,,"SD07","BA0502",,,
+600248,"BR-3274","small_airport","Fazenda Nova Conquista Airport",-12.020664,-51.334969,886,"SA","BR","BR-U-A","Serra Nova Dourada","no",,,"SD15","MT1140",,,
 30637,"BR-ALT","small_airport","Alenquer Municipal Airport",-1.917,-54.7231,55,"SA","BR","BR-PA","Alenquer","no",,"ALT","SDWQ","PA0027",,"https://en.wikipedia.org/wiki/Alenquer_Airport",
 46168,"BS-0001","closed","Fowl Cay Airstrip",24.2707432941,-76.5409862995,,"NA","BS","BS-EX","Fowl Cay","no",,,,,,,
 46379,"BS-0002","closed","Port Nelson Airstrip",23.651411,-74.845051,,"NA","BS","BS-RC","Port Nelson","no",,,,,,,
@@ -19071,6 +19074,8 @@
 352948,"CM-0012","small_airport","Malinkam Northwest Airport",4.61748,9.6242,492,"AF","CM","CM-LT","Malinkam","no",,,,,,,
 340292,"CM-0013","closed","Limbé Airport",4.01583,9.19999,-3,"AF","CM","CM-SW","Limbé","no",,,,,,,"VCC"
 32034,"CM-0014","closed","Nkongsamba Airport",4.95,9.933,2641,"AF","CM","CM-LT","Nkongsamba","no",,,,,,"https://en.wikipedia.org/wiki/Nkongsamba_Airport","FKAN, FKAN, NKS"
+600251,"CM-0015","small_airport","Mai field",4.46636,12.05125,1800,"AF","CM","CM-CE",,"no",,,,,,,
+600252,"CM-0016","small_airport","Boko ag field",4.47372,12.13107,,"AF","CM","CM-CE",,"no",,,,,,,
 1276,"CMA2","small_airport","Mattawa Airport",46.29970169067383,-78.747802734375,600,"NA","CA","CA-ON","Mattawa","no",,,"CMA2","CMA2",,"https://en.wikipedia.org/wiki/Mattawa_Airport","MA2"
 577155,"CMA3","heliport","Aeria Helicentre Heliport",45.281375,-72.103043,659,"NA","CA","CA-QC","Magog","no",,,"CMA3","CMA3",,,
 28317,"CMA4","seaplane_base","Miminiska Seaplane Base",51.601398,-88.580803,,"NA","CA","CA-ON",,"no",,,"CMA4","CMA4",,"https://en.wikipedia.org/wiki/Miminiska_Water_Aerodrome",
@@ -56804,13 +56809,14 @@
 337246,"SD07","heliport","Keystone XL Philip Heliport",44.056081,-101.674607,2338,"NA","US","US-SD","Philip","no",,,,"SD07",,,
 599995,"SD08","small_airport","Fazenda Martelli 1 Airstrip",-12.53175,-56.708081,1125,"SA","BR","BR-MT","Tapurah","no",,,"SD08","MT1132",,,
 24502,"SD09","heliport","Mid-Dakota Hospital Heliport",43.786534,-99.324675,1735,"NA","US","US-SD","Chamberlain","no",,,,"SD09",,,
+600246,"SD0D","heliport","Equiplex Heliport",-16.820161,-49.235414,2608,"SA","BR","BR-GO","Aparecida de Goiânia","no",,,"SD0D","GO0407",,,
 344016,"SD0E","small_airport","Fazenda Tangará Airport",-9.668485,-50.782555,689,"SA","BR","BR-PA","Santana do Araguaia","no",,,"SD0E","PA0265",,,
 24503,"SD1","heliport","Soldotna Hospital H Heliport",60.492637,-151.078967,99,"NA","US","US-AK","Soldotna","no",,,,"SD1",,,
 599964,"SD10","small_airport","Fazenda Vale do Juruena 2 Airport",-9.3914,-58.221169,735,"SA","BR","BR-MT","Nova Bandeirantes","no",,,"SD10","MT1134",,,
 599965,"SD11","small_airport","""Amazon Runway""",-3.231842,-60.486547,151,"SA","BR","BR-AM","Manacapuru","no",,,"SD11","AM0120",,,
 24504,"SD13","small_airport","Hofer Private Airport",44.86712,-98.07396,1368,"NA","US","US-SD","Doland","no",,,,"SD13",,,"Richfield Township, Spink County"
 24505,"SD14","small_airport","Valburg Ranch Airport",43.73389,-100.392054,1688,"NA","US","US-SD","Draper","no",,,,"SD14",,,
-551359,"SD15","small_airport","Fleurish Farm Airport",42.758063,-96.669323,1133,"NA","US","US-SD","Elk Point","no",,,"SD15","SD15",,,
+551359,"SD15","small_airport","Fleurish Farm Airport",42.758063,-96.669323,1133,"NA","US","US-SD","Elk Point","no",,,,"SD15",,,
 24506,"SD17","heliport","CDP Hospital Heliport",45.658008,-97.050013,1250,"NA","US","US-SD","Sisseton","no",,,,"SD17",,,
 327296,"SD18","heliport","Keystone Adventures Heliport",43.916269,-103.441726,4969,"NA","US","US-SD","Rapid City","no",,,"SD18","SD18",,,
 24507,"SD19","small_airport","Andersen Farms Airport",44.466191,-97.222844,1750,"NA","US","US-SD","Badger","no",,,,"SD19",,,"Moved marker to runway"
@@ -57512,7 +57518,7 @@
 35744,"SDTM","heliport","Crystal Tower Heliport",-23.493318,-46.852739,2838,"SA","BR","BR-SP","Barueri","no",,,"SDTM","SP0425",,,
 35745,"SDTN","small_airport","Usina Açucareira Santo Antônio Airport",-21.121212,-47.947913,1969,"SA","BR","BR-SP","Sertãozinho","no",,,"SWAS","SP0270",,"https://pt.wikipedia.org/wiki/Aer%C3%B3dromo_Usina_A%C3%A7ucareira_Santo_Ant%C3%B4nio","SDTN"
 30503,"SDTO","small_airport","Fazenda Cataco Airport",-21.25517,-49.79484,1358,"SA","BR","BR-SP","Ubarana","no",,,"SDTO","SP0147",,,
-204,"SDTP","small_airport","Tupã Airport",-21.889099,-50.5051,1805,"SA","BR","BR-SP","Tupã","no",,,"SDTP","SDTP",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Tup%C3%A3",
+204,"SDTP","small_airport","Tupã Airport",-21.889052,-50.505052,1804,"SA","BR","BR-SP","Tupã","no",,,"SDTP","SP0025",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Tup%C3%A3",
 30470,"SDTQ","small_airport","Fazenda Santa Thereza Airport",-18.229061,-51.207886,2149,"SA","BR","BR-GO","Aparecida do Rio Doce","no",,,"SWXK","GO0150",,,"SDTQ"
 35747,"SDTS","small_airport","Fazenda Planalto Airport",-20.338452,-54.415966,2238,"SA","BR","BR-MS","Jaraguari","no",,,"SDTS","MS0055",,,
 35983,"SDTT","heliport","Região das Hortências Heliport",-29.361552,-50.853144,2805,"SA","BR","BR-RS","Gramado","no",,,"SDTT","RS0103",,,"SIGR"
@@ -62209,7 +62215,7 @@
 475,"SSLN","small_airport","Helmuth Baungarten Airport",-27.159999847399998,-49.5424995422,1095,"SA","BR","BR-SC","Lontras","no","SSLN","LOI","SSLN","SSLN",,"http://pt.wikipedia.org/wiki/Aeroporto_de_Lontras","Baungartem"
 476,"SSLO","small_airport","Loanda Airport",-22.917101,-53.148998,1542,"SA","BR","BR-PR","Loanda","no",,,"SSLO","SSLO",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Loanda",
 37559,"SSLP","small_airport","Fazenda Lucero Porã Airport",-21.91083335876465,-57.64666748046875,299,"SA","BR","BR-MS","Porto Murtinho","no",,,"SSLP",,,,
-37560,"SSLQ","small_airport","Fazenda Campanário Airport",-22.783302,-55.072604,1362,"SA","BR","BR-MS","Laguna Carapã","no",,,"SDTD","SDTD",,,"SSLQ"
+37560,"SSLQ","small_airport","Fazenda Campanário Airport",-22.783302,-55.072604,1362,"SA","BR","BR-MS","Laguna Carapã","no",,,"SDTD","MS0054",,,"SSLQ"
 37561,"SSLR","small_airport","Ocorema Airport",-19.104999542236328,-57.59333419799805,413,"SA","BR","BR-MS","Ladário","no",,,"SSLR",,,,
 477,"SSLT","small_airport","Alegrete Novo Airport",-29.811595,-55.894707,410,"SA","BR","BR-RS","Alegrete","no","SSLT","ALQ","SSLT","RS0022",,"https://en.wikipedia.org/wiki/Alegrete_Airport",
 37563,"SSLU","small_airport","Fazenda Aurora Airport",-21.523332,-56.611667,754,"SA","BR","BR-MS","Jardim","no",,,"SSXU","SSXU",,,"SSLU"
@@ -79273,6 +79279,7 @@
 311043,"VN-0074","closed","Vinh Long Airfield",10.2509,105.9445,27,"AS","VN","VN-SW","Vinh Long","no",,,,,,,"Vinh Long Airbase, XVL"
 319516,"VN-0075","closed","Long Xuyên Airport",10.330134,105.473144,12,"AS","VN","VN-SW","Long Xuyên","no",,,,,,"https://vi.wikipedia.org/wiki/S%C3%A2n_bay_Long_Xuy%C3%AAn","XLO, Vam Cong"
 319521,"VN-0076","closed","Quảng Ngãi Airfield",15.115474,108.771816,50,"AS","VN","VN-SCC","Quảng Ngãi","no",,,,,,"https://en.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i_Airfield","XNG, XNG"
+600245,"VN-0077","large_airport","Nhà Cái 33Win",89,78,,"AS","VN","VN-NC",,"yes",,,,,"https://33win.cam/",,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
