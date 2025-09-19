@@ -15689,7 +15689,7 @@
 37160,"BR-2810","small_airport","Fazenda Agropecuária Rancho 11 Airport",-15.614169,-58.900272,1001,"SA","BR","BR-MT","Porto Esperidião","no",,,,"SNLM",,,"SNLM"
 37161,"BR-2811","heliport","Santa Fé Heliport",-22.994361,-46.391569,2848,"SA","BR","BR-SP","Piracaia","no",,,,"SNLP",,,"SNLP"
 37163,"BR-2812","heliport","São Sebastião Heliport",-19.705506,-43.848163,2677,"SA","BR","BR-MG","Lagoa Santa","no",,,,"SNLS",,,"SNLS"
-37165,"BR-2813","small_airport","Lavrinhas Airport",-17.735832214355,-43.459442138672,3478,"SA","BR","BR-MG","Lavrinhas","no",,,,"SNLV",,,"SNLV"
+37165,"BR-2813","small_airport","Lavrinhas Airport",-17.737851,-43.496241,3478,"SA","BR","BR-MG","Lavrinhas","no",,,,,,,"SNLV"
 37171,"BR-2814","small_airport","Morada Nova de Minas Airport",-18.59388923645,-45.353057861328,1988,"SA","BR","BR-MG","Morada Nova De Minas","no",,,,"SNMM",,,"SNMM"
 37173,"BR-2815","closed","Morada Nova Airport",-5.083611,-38.38361,509,"SA","BR","BR-CE","Morada Nova","no",,,,,,,"SNMO"
 37178,"BR-2816","small_airport","Agropecuária Paralelo Dez Ltda Airport",-9.9994440078735,-61.052223205566,3035,"SA","BR","BR-MT","Aripuanã","no",,,,"SNMW",,,"SNMW"
@@ -15886,7 +15886,7 @@
 37730,"BR-3007","small_airport","Galletti II Airport",-2.9513890743256,-51.146110534668,974,"SA","BR","BR-PA","Portel","no",,,,"SSXR",,,"SSXR"
 37737,"BR-3008","small_airport","Barradão Airport",-9.619722,-60.6675,459,"SA","BR","BR-MT","Colniza","no",,,,"SSXY",,,"SSXY"
 37744,"BR-3009","heliport","Condomínio Spázio Central Heliport",-23.591102,-46.685704,2684,"SA","BR","BR-SP","São Paulo","no",,,,"SSYH",,,"SSYH"
-37746,"BR-3010","heliport","Hospital Alvorada Heliport",-23.601342,-46.661366,2690,"SA","BR","BR-SP","São Paulo","no",,,,"SP0882",,,"SSYK, BR-3010"
+37746,"BR-3010","heliport","Alvorada Moema Hospital Helipad",-23.601342,-46.661366,2690,"SA","BR","BR-SP","São Paulo","no",,,"SNMP","SP0882",,,"SSYK"
 37748,"BR-3011","small_airport","Tuiuiu Airport",-20.086944580078,-56.616390228271,548,"SA","BR","BR-MS","Miranda","no",,,,"SSYM",,,"SSYM"
 37749,"BR-3012","small_airport","Arrozeira Airport",-20.082928,-56.667116,427,"SA","BR","BR-MS","Miranda","no",,,,"SSYN",,,"SSYN"
 37758,"BR-3013","heliport","Neo Química Heliport",-16.402779,-48.964169,3750,"SA","BR","BR-GO","Anápolis","no",,,,"SSYX",,,"SSYX"
@@ -16483,7 +16483,7 @@
 39746,"CA-0100","closed","Covey Hill Airport",45.016001,-73.6888,340,"NA","CA","CA-QC","Covey Hill","no",,,,,,,"SH3, SH3"
 39747,"CA-0101","closed","Cowpar Airport",55.95000076293945,-110.5,,"NA","CA","CA-AB",,"no",,,,,,,
 39748,"CA-0102","closed","Crater Airport",58.70000076293945,-118.68333435058594,,"NA","CA","CA-AB",,"no",,,,,,,
-39749,"CA-0103","closed","Crater Airport",49.91666793823242,-99.80000305175781,,"NA","CA","CA-MB",,"no",,,,,,,
+39749,"CA-0103","closed","Chater Airfield",49.90726,-99.797858,1333,"NA","CA","CA-MB","Chater","no",,,,,,,
 39750,"CA-0104","closed","Crawfish Lake Airport",49.70000076293945,-126.76667022705078,,"NA","CA","CA-BC",,"no",,,,,,,
 39751,"CA-0105","closed","Cree Lake Airport",57.36666488647461,-107.13333129882812,,"NA","CA","CA-SK",,"no",,,,,,,
 39752,"CA-0106","closed","Crooked Lake Airport",72.66666412353516,-98.5,,"NA","CA","CA-NU",,"no",,,,,,,
@@ -16494,7 +16494,7 @@
 39757,"CA-0111","closed","Davis Inlet Airport",55.898706,-60.912752,26,"NA","CA","CA-NL","Natuashish","no",,,,,,,"CCB4, YDI"
 39758,"CA-0112","closed","Deception Airport",62.112314446199996,-74.554681778,,"NA","CA","CA-QC",,"no",,,,,,,"YGY, YGY"
 39759,"CA-0113","closed","Dewar Lakes DEW Line Station",68.627546,-71.125832,580,"NA","CA","CA-NU","Dewar Lakes","no",,,,,,,"YUW, YUW"
-39760,"CA-0114","closed","Discovery Airport",63.18333435058594,-113.9000015258789,,"NA","CA","CA-NT",,"no",,,,,,,
+39760,"CA-0114","closed","Discovery Airport",63.182293,-113.898067,988,"NA","CA","CA-NT","Discovery Mine","no",,,,,,"https://en.wikipedia.org/wiki/Discovery_Mine",
 45214,"CA-0115","closed","RCAF Station Caron",50.4602361484,-105.812416077,,"NA","CA","CA-SK",,"no",,,,,,,
 39762,"CA-0116","closed","Douglastown Airport",47.03333282470703,-65.53333282470703,,"NA","CA","CA-NB",,"no",,,,,,,
 39763,"CA-0117","closed","Drake Point Airport",76.4000015258789,-108.53333282470703,,"NA","CA","CA-NU",,"no",,,,,,,
@@ -16512,7 +16512,7 @@
 39775,"CA-0129","closed","Esker Lake Airport",61.650001525878906,-74.66666412353516,,"NA","CA","CA-QC",,"no",,,,,,,
 39776,"CA-0130","closed","Espanola (East) Airport",46.266666412353516,-81.73332977294922,,"NA","CA","CA-ON",,"no",,,,,,,
 39777,"CA-0131","closed","Espanola (West) Airport",46.25,-81.8499984741211,,"NA","CA","CA-ON",,"no",,,,,,,
-39778,"CA-0132","closed","Finbow Airport",57.266663,-125.449997,2460,"NA","CA","CA-BC",,"no",,,,,,,"BF2, BF2"
+39778,"CA-0132","closed","Finbow Airport",57.271594,-125.450982,2460,"NA","CA","CA-BC","Cirque Mine","no",,,,,,,"BF2"
 39779,"CA-0133","closed","Foggy Tower Airport",58.688728,-114.976132,2905,"NA","CA","CA-AB",,"no",,,,,,,
 39780,"CA-0134","closed","Fort George Airport",53.81666564941406,-79,,"NA","CA","CA-QC",,"no",,,,,,,
 39781,"CA-0135","closed","Fort McMurray Heliport",56.66666793823242,-111.33333587646484,,"NA","CA","CA-AB",,"no",,,,,,,
@@ -16536,7 +16536,7 @@
 39799,"CA-0153","closed","Hagersville Airport (No. 16 SFTS)",42.926797,-80.120716,,"NA","CA","CA-ON","Townsend","no",,,,,,,"BCATP"
 39800,"CA-0154","closed","Halifax (South Battery) Heliport",44.643735,-63.567702,,"NA","CA","CA-NS","Halifax","no",,,,,,,
 39801,"CA-0155","closed","Hart River Airport",64.666301,-136.846771,3330,"NA","CA","CA-YT","Tr'ondëk Hwëch'in First Nation","no",,,,,,,
-39802,"CA-0156","closed","Hartney Airport",49.45000076293945,-100.51667022705078,,"NA","CA","CA-MB",,"no",,,,,,,
+39802,"CA-0156","closed","Hartney RCAF",49.451605,-100.521621,1450,"NA","CA","CA-MB","Hartney","no",,,,,,,
 39803,"CA-0157","closed","Haskett Airport",49.000521,-97.903311,936,"NA","CA","CA-MB","Haskett","no",,,,,,,"CKJ6, KJ6"
 39804,"CA-0158","closed","Henik Lake Airport",61.650001525878906,-97.36666870117188,,"NA","CA","CA-NU",,"no",,,,,,,
 41098,"CA-0159","small_airport","Pontiac Airpark",45.527998,-76.168835,216,"NA","CA","CA-QC","Pontiac","no",,,,,"https://web.archive.org/web/20141218021821/http://pontiacairpark.com/",,"CPN2"
@@ -16567,7 +16567,7 @@
 39830,"CA-0184","closed","Kelvington (Mennie Field) Airport",52.16666793823242,-103.5999984741211,,"NA","CA","CA-SK",,"no",,,,,,,
 39831,"CA-0185","closed","Kenakskaniss Airport",50.13333511352539,-89.44999694824219,,"NA","CA","CA-ON",,"no",,,,,,,
 39832,"CA-0186","closed","Ketza River Airport",61.849998474121094,-132.3000030517578,,"NA","CA","CA-YT",,"no",,,,,,,
-42747,"CA-0187","heliport","Citadelle de Québec Heliport",46.80739974975586,-71.20659637451172,,"NA","CA","CA-QC","Quebec","no",,,,,,,"military"
+42747,"CA-0187","heliport","Citadelle de Québec Heliport",46.807443,-71.206642,323,"NA","CA","CA-QC","Quebec","no",,,,,,"https://en.wikipedia.org/wiki/Citadelle_of_Quebec","military"
 39834,"CA-0188","closed","Kilometer 176 Airport",56.86666488647461,-106.1500015258789,,"NA","CA","CA-SK",,"no",,,,,,,
 39835,"CA-0189","closed","Kimsquit Airport",52.883175,-127.089758,75,"NA","CA","CA-BC","Kimsquit Valley","no",,,,,,,
 39836,"CA-0190","closed","Kincaid Airport",49.66666793823242,-107.05000305175781,,"NA","CA","CA-SK",,"no",,,,,,,
@@ -55640,6 +55640,7 @@
 599586,"RU-10116","heliport","Nota River Heliport",67.990438,29.687294,388,"EU","RU","RU-MUR","Kolsky","no",,,,"HFK4",,,"ХФК4, Река Нота"
 599587,"RU-10117","heliport","Tepsi River Heliport",67.672106,30.070658,632,"EU","RU","RU-MUR","Kovdorsky","no",,,,"HFK6",,,"ХФК6, Река Тепси"
 600031,"RU-10118","small_airport","Torbeyevo Airfield",55.06583,37.88167,600,"EU","RU","RU-MOS","Torbeyevo","no",,,"UUCT",,,,"УУЦТ, Торбеево"
+600552,"RU-10119","small_airport","Betenkes Airfield",67.642559,135.575882,456,"AS","RU","RU-SA","Betenkes","no",,,,"ZC8G",,,"ЗЦ8Г, Бетенкёс"
 526852,"RU-1012","heliport","KS-4 Vorkutinskaya",67.225925,63.674161,,"AS","RU","RU-KO","Vorkuta","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526854,"RU-1013","heliport","KS-9 Maloperanskaya",64.258736,54.893339,,"EU","RU","RU-KO",,"no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526855,"RU-1014","heliport","KS-8 Chikshynskaya",64.906503,56.412424,,"EU","RU","RU-KO","Chikshino","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
@@ -61359,7 +61360,7 @@
 352,"SNMK","small_airport","Mocambinho Airport",-15.093000411987305,-43.97909927368164,1519,"SA","BR","BR-MG","Jaíba","no",,,"SNMK","SNMK",,,
 37170,"SNML","small_airport","Manduca Leão Airport",-9.544221,-35.824949,387,"SA","BR","BR-AL","Rio Largo","no",,,"SNML",,,"https://pt.wikipedia.org/wiki/Aer%C3%B3dromo_Manduca_Le%C3%A3o",
 37172,"SNMN","small_airport","Minas Novas Airport",-17.263889,-42.539165,2707,"SA","BR","BR-MG","Minas Novas","no",,,"SNMN","MG0075",,,
-37174,"SNMP","small_airport","Fazenda Marocopa Airport",-17.323055267333984,-46.538055419921875,1752,"SA","BR","BR-MG","Paracatu","no",,,"SNMP",,,,
+37174,"SNMP","small_airport","Fazenda Marocopa Airport",-17.324341,-46.544106,1752,"SA","BR","BR-MG","Paracatu","no",,,,,,,"SNMP"
 37175,"SNMQ","heliport","Tigre Heliport",-26.316964,-48.866206,108,"SA","BR","BR-SC","Joinville","no",,,"SNMQ","SC0078",,,"Felipe Hansen"
 37176,"SNMR","small_airport","Maraú Airport",-14.14395,-39.00699,66,"SA","BR","BR-BA","Maraú","no",,,"SNMR",,,,
 340472,"SNMT","heliport","Profitus Helipad",-23.916507,-45.45551,148,"SA","BR","BR-SP","Ilhabela","no",,,"SNMT","SP0715",,,
@@ -64814,7 +64815,7 @@
 321207,"UA-0105","closed","Karabachyn Airstrip",50.274742,29.441407,,"EU","UA","UA-18",,"no",,,,,,,
 321208,"UA-0106","small_airport","Anan'iv Airstrip",47.6796995,29.9669261,,"EU","UA","UA-51",,"no",,,,,,,
 321214,"UA-0107","small_airport","Kam'yanets'-Podil's'kyi Airfield",48.695631,26.609471,700,"EU","UA","UA-68","Kamyan'ka","no",,"KCP","UKLK",,,,"Mekanik Avia, Механик Авиа, УКЛК"
-321481,"UA-0108","small_airport","Drohobych Airfield",49.366803,23.568044,902,"EU","UA","UA-46","Drohobych","no",,,"UKMD",,,,
+321481,"UA-0108","small_airport","Drohobych Airfield",49.367235,23.568403,902,"EU","UA","UA-46","Drohobych","no",,,"UKLD",,,,
 321490,"UA-0109","small_airport","Malyn Airstrip",50.786675,29.246711,,"EU","UA","UA-18","Malyn","no",,,,,,,
 321616,"UA-0110","closed","Pogorelovka Airstrip",48.525151,25.993457,,"EU","UA","UA-77",,"no",,,,,,,
 321617,"UA-0111","closed","Rudnya Airstrip",49.37228,27.531321,,"EU","UA","UA-68","Rudnya","no",,,,,,,
@@ -65344,6 +65345,7 @@
 6497,"UMII","medium_airport","Vitebsk Vostochny Airport",55.126499176025,30.349599838257,682,"EU","BY","BY-VI","Vitebsk","no","UMII","VTB","UMII",,,"https://en.wikipedia.org/wiki/Vitebsk_Vostochny_Airport","УМІІ, УМИИ, Vitebsk Southeast, Vitebsk East Airport, Аэрапорт Віцебск, Аэропорт Витебск"
 542509,"UMKE","small_airport","Medovoye Airfield",54.540937,20.336244,85,"EU","RU","RU-KGD","Medovoye","no",,,"UMKE",,,,"УМКЕ, Медовое"
 6498,"UMKK","medium_airport","Khrabrovo Airport",54.88999938964844,20.592599868774414,42,"EU","RU","RU-KGD","Kaliningrad","yes","UMKK","KGD","UMKK",,,"https://en.wikipedia.org/wiki/Khrabrovo_Airport",
+600554,"UMKS","small_airport","Strelnya Airfield",54.515919,20.618509,78,"EU","RU","RU-KGD","Strelnya","no",,,"UMKS",,,,"УМКС, Стрельня"
 30140,"UMLI","small_airport","Minsk Machulishchy Air Base",53.77344,27.577411,699,"EU","BY","BY-MI","Minsk","no","UMLI",,"UMLI",,,"https://en.wikipedia.org/wiki/Machulishchy_(air_base)","Minsk Machulishchi Airport, Аэрапорт Мачулішчы, Аэропорт Мачулищи"
 44338,"UMMA","medium_airport","Baranavichi Air Base",53.099998,26.049999,,"EU","BY","BY-BR","Baranavichi","no",,,"UMMA",,,"https://en.wikipedia.org/wiki/Baranovichi_(air_base)","Baranovichi Air Base, Аэродром Барановичи"
 6499,"UMMG","medium_airport","Hrodna Airport",53.602001,24.053801,443,"EU","BY","BY-HR","Hrodna","no","UMMG","GNA","UMMG",,,"https://en.wikipedia.org/wiki/Hrodna_Airport","Grodno Airport, Гро́дна"
