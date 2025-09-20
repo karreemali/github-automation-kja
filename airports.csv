@@ -16689,7 +16689,7 @@
 39952,"CA-0306","closed","Rea Point Airport",75.365399,-105.727823,,"NA","CA","CA-NU","Melville Island","no",,,,,,,
 44455,"CA-0307","small_airport","Orono / Hawkefield Aerodrome",44,-78.6488,620,"NA","CA","CA-ON","Clarington","no",,,"CHF4","CHF4",,"https://en.wikipedia.org/wiki/Orono/Hawkefield_Aerodrome",
 39954,"CA-0308","closed","Redvers Airport",49.58333206176758,-101.68333435058594,,"NA","CA","CA-SK",,"no",,,,,,,
-39955,"CA-0309","closed","Renous Airport",46.950003,-66.566666,1218,"NA","CA","CA-NB",,"no",,,,,,,"DK4, DK4"
+39955,"CA-0309","closed","Renous Airport",46.950791,-66.571941,1218,"NA","CA","CA-NB","Renous","no",,,,,,,"DK4"
 39956,"CA-0310","closed","Richardson Airport",57.88333511352539,-111.01667022705078,,"NA","CA","CA-AB",,"no",,,,,,,
 39957,"CA-0311","closed","Riske Creek Airport",51.958652,-122.508652,2999,"NA","CA","CA-BC","Riske Creek","no",,,,,,,
 44472,"CA-0312","closed","Kingston Airfield",44.251099,-76.503403,,"NA","CA","CA-ON","Kingston","no",,,,,,"https://en.wikipedia.org/wiki/Kingston_Airfield",
@@ -16720,7 +16720,7 @@
 44570,"CA-0337","small_airport","Nass Camp Airstrip",55.29069900512695,-128.9969940185547,,"NA","CA","CA-BC","Nass Camp","no",,,,,,,
 39984,"CA-0338","closed","Shingle Point DEW Line Station",68.929564,-137.234705,100,"NA","CA","CA-YT","Shingle Point","no",,,,,,,"YUA, CYUA"
 335893,"CA-0339","heliport","Carmanah Point Lighthouse Heliport",48.612051,-124.751778,94,"NA","CA","CA-MB","Carmanah Point","no",,,,"BT2",,"https://en.wikipedia.org/wiki/Carmanah_Point_Light_Station",
-39986,"CA-0340","closed","Sikanni Chief Airport",57.08333206176758,-122.5999984741211,,"NA","CA","CA-BC",,"no",,,,,,,
+39986,"CA-0340","closed","Sikanni Chief Airport",57.089406,-122.605537,3266,"NA","CA","CA-BC",,"no",,,,,,,
 39987,"CA-0341","closed","Simcoe Airport",42.852813,-80.287143,764,"NA","CA","CA-ON",,"no",,,,,,,"PH5, PH5"
 39988,"CA-0342","closed","Simpson Lake DEW Line Station",68.589851,-91.947586,,"NA","CA","CA-NU",,"no",,,,,,,
 39989,"CA-0343","closed","Skocdopole Farms Airport",51.75,-113.883331,,"NA","CA","CA-AB",,"no",,,,,,,"FB6, FB6"
@@ -16729,19 +16729,19 @@
 39992,"CA-0346","closed","Smoky City Airport",54.75,-118.58333587646484,,"NA","CA","CA-AB",,"no",,,,,,,
 39993,"CA-0347","closed","Smoky Tower Airport",54.400001525878906,-118.28333282470703,,"NA","CA","CA-AB",,"no",,,,,,,
 39994,"CA-0348","closed","Snag Airport",62.354151,-140.404432,,"NA","CA","CA-YT",,"no",,,,,,,
-39995,"CA-0349","closed","Squanga Lake Airport",60.48659,-133.458067,,"NA","CA","CA-YT","Squanga Lake","no",,,,,,,"FR6, FR6"
+39995,"CA-0349","closed","Squanga Lake Airport",60.48659,-133.458067,2608,"NA","CA","CA-YT","Squanga Lake","no",,,,,,,"FR6"
 39996,"CA-0350","closed","St-Gabriel-De-Brandon Airport",46.349998474121094,-73.38333129882812,,"NA","CA","CA-QC",,"no",,,,,,,
 39997,"CA-0351","closed","St-Joseph-De-St-Hyacinths Airport",45.61666488647461,-72.93333435058594,,"NA","CA","CA-QC",,"no",,,,,,,
 39998,"CA-0352","closed","St-Prosper (Pel) Airport",46.216667,-70.5,988,"NA","CA","CA-QC",,"no",,,,,,,"CTW2, TW2"
 39999,"CA-0353","closed","St-Simon-De-Bagot Airport",45.68333435058594,-72.83333587646484,,"NA","CA","CA-QC",,"no",,,,,,,
-40000,"CA-0354","closed","St. Aldwyn Airport",50.38333511352539,-107.76667022705078,,"NA","CA","CA-SK",,"no",,,,,,,
+40000,"CA-0354","closed","St. Aldwyn RCAF",50.390532,-107.75773,2633,"NA","CA","CA-SK","Swift Current","no",,,,,,,
 40001,"CA-0355","closed","St. Anthony Airport",51.491374,-55.813036,,"NA","CA","CA-NL",,"no",,,,,,,
 40002,"CA-0356","closed","Saint-Léonard (Cyr) Airport",47.180555,-67.890272,,"NA","CA","CA-NB","Saint-Léonard","no",,,,,,,
 40003,"CA-0357","closed","Stave Lake Airport",49.467727,-122.225691,352,"NA","CA","CA-BC","Mission","no",,,,,,,"BG5, BG5"
 40004,"CA-0358","closed","Ste-Anne-De-Sorel Airport",46.06666564941406,-72.98332977294922,,"NA","CA","CA-QC",,"no",,,,,,,
 40005,"CA-0359","closed","Sainte-Croix Airport",46.632582600199996,-71.7893457413,,"NA","CA","CA-QC","Sainte-Croix","no",,,,,,,
 40006,"CA-0360","closed","Chucker Farm Airport",45.43330001831055,-74.25,,"NA","CA","CA-QC","Ste-Marthe","no",,,,,,,
-40007,"CA-0361","closed","Steeper Airport",53.13333511352539,-117.11666870117188,,"NA","CA","CA-AB",,"no",,,,,,,
+40007,"CA-0361","closed","Steeper Airport",53.142463,-117.098387,4485,"NA","CA","CA-AB","Cadomin","no",,,,,,,
 40008,"CA-0362","closed","Stewart Lake Airport",64.33333587646484,-125.38333129882812,,"NA","CA","CA-NT",,"no",,,,,,,
 40009,"CA-0363","closed","Stobart Creek Airport",51.472702,-122.833614,,"NA","CA","CA-BC","Cariboo","no",,,,,,,
 40010,"CA-0364","closed","Stokes Point DEW Line Station",69.332027,-138.71852,,"NA","CA","CA-YT","Stokes Point","no",,,,,,,
@@ -16783,7 +16783,7 @@
 40046,"CA-0400","closed","Mile 100 Airport",51.38330078125,-65.63330078125,,"NA","CA","CA-QC","Waco","no",,,,,,,
 40047,"CA-0401","closed","Wadlin Tower Airport",57.766666412353516,-115.44999694824219,,"NA","CA","CA-AB",,"no",,,,,,,
 40048,"CA-0402","closed","Washademoak Airport",45.849998474121094,-65.8499984741211,,"NA","CA","CA-NB",,"no",,,,,,,
-40049,"CA-0403","closed","Webbwood Airport",46.3197,-81.8744,960,"NA","CA","CA-ON",,"no",,,,,,,"PL6, PL6"
+40049,"CA-0403","closed","Webbwood Airport",46.3197,-81.8744,960,"NA","CA","CA-ON","Webbwood","no",,,,,,,"PL6"
 40050,"CA-0404","closed","Werenko Airport",48.799886,-93.081944,1284,"NA","CA","CA-ON","Werenko","no",,,,,,,"KC4, KC4"
 40051,"CA-0405","closed","Nudluardjk Lake / West Baffin DEW Line Station",68.610044,-73.242081,,"NA","CA","CA-NU","Nudluardjk Lake","no",,,,,,,
 40052,"CA-0406","closed","Whitecourt (Forestry) Heliport",54.13333511352539,-115.66666412353516,,"NA","CA","CA-AB",,"no",,,,,,,
@@ -16794,7 +16794,7 @@
 40057,"CA-0411","small_airport","Wingham (Inglis Field) Airport",43.897621,-81.335737,1035,"NA","CA","CA-ON","Wingham","no",,,"CWH5","CWH5",,"https://en.wikipedia.org/wiki/Wingham_(Inglis_Field)_Aerodrome","PP5, CPP5"
 40058,"CA-0412","closed","Winisk Airport",55.2242,-85.1174,32,"NA","CA","CA-ON","Winisk","no",,,,,,"https://en.wikipedia.org/wiki/Winisk,_Ontario","YWN, YWN"
 40059,"CA-0413","closed","Wolf Lake Airport",53.216408,-116.084901,,"NA","CA","CA-AB","Cynthia","no",,,,,,,
-40060,"CA-0414","closed","Worsley Airport",56.516666412353516,-119.08333587646484,,"NA","CA","CA-AB",,"no",,,,,,,
+40060,"CA-0414","closed","Worsley Airport",56.510376,-119.082288,2139,"NA","CA","CA-AB","Worsley","no",,,,,,,"FY7"
 40061,"CA-0415","closed","Woss Airport",50.215459,-126.619756,420,"NA","CA","CA-BC","Woss","no",,,,,,,"AK4"
 40062,"CA-0416","small_airport","Wrong Lake Airport",52.615452,-96.184015,840,"NA","CA","CA-MB",,"no",,,"CJG4","CJG4",,"https://en.wikipedia.org/wiki/Wrong_Lake_Airport",
 40063,"CA-0417","closed","Yarbo Airport",50.71666717529297,-101.93333435058594,,"NA","CA","CA-SK",,"no",,,,,,,
@@ -16814,7 +16814,7 @@
 46519,"CA-0431","small_airport","Newtonville / Steeves Field",43.940197,-78.444185,502,"NA","CA","CA-ON",,"no",,,"CNT9","CNT9",,"https://en.wikipedia.org/wiki/Newtonville/Steeves_Field_Aerodrome",
 46500,"CA-0432","small_airport","Regina / Aerogate Airport",50.597731,-104.601312,1980,"NA","CA","CA-SK","Brora","no",,,"CAG2","CAG2",,"https://en.wikipedia.org/wiki/Regina/Aerogate_Aerodrome","Parr Field"
 46503,"CA-0433","heliport","Prince Edward County Hospital Heliport",44.01628,-77.138461,353,"NA","CA","CA-ON","Picton","no",,,,,,"https://en.wikipedia.org/wiki/List_of_heliports_in_Canada#344","CPE7"
-46504,"CA-0434","closed","Jarvis (No.1 Bombing & Gunnery School)",42.836199025899994,-80.044670105,,"NA","CA","CA-ON",,"no",,,,,,,"BCATP, American Airlines"
+46504,"CA-0434","closed","Jarvis RCAF",42.836199,-80.04467,635,"NA","CA","CA-ON","Nanticoke","no",,,,,,"https://en.wikipedia.org/wiki/RCAF_Station_Jarvis","No.1 Bombing & Gunnery School, BCATP, American Airlines"
 46505,"CA-0435","heliport","WESCAM Burlington",43.3404490137,-79.83305454250001,,"NA","CA","CA-ON","Burlington","no",,,,,,,
 46506,"CA-0436","closed","Kohler Airstrip",42.903005,-79.855371,,"NA","CA","CA-ON","Cayuga","no",,,,,,,"BCATP"
 46507,"CA-0437","closed","White's Airstrip",43.9459440235,-77.244207859,,"NA","CA","CA-ON","Prince Edward County","no",,,,,,,
@@ -16834,7 +16834,7 @@
 46634,"CA-0451","small_airport","Prichard Airstrip",50.659473079099996,-119.793720245,,"NA","CA","CA-BC","Pritchard","no",,,,,,,
 46635,"CA-0452","small_airport","Courtland / Tillsonburg Flying Club Field",42.85709146759999,-80.63207387920001,800,"NA","CA","CA-ON","Tillsonburg","no",,,,,,,
 298629,"CA-0453","small_airport","Sheridan Lake Airstrip",51.4954922213,-120.835790634,,"NA","CA","CA-BC","Sheridan Lake","no",,,,,,,
-46642,"CA-0454","small_airport","Baker Valley Airpark",44.754657,-76.929016,625,"NA","CA","CA-ON","Central Frontenac","no",,,,,"https://bakervalley.shutterfly.com/?fbclid=IwAR32E8Awt8c6FEFTKbVN0NfKDXSvKe_w2OtiyvhFVeQDxH7Ee-quRmSWYdc",,
+46642,"CA-0454","small_airport","Baker Valley Airpark",44.75485,-76.928399,625,"NA","CA","CA-ON","Arden","no",,,,,,,"Central Frontenac"
 46638,"CA-0455","closed","Brisbane Private Airfield",43.737879,-80.084281,1289,"NA","CA","CA-ON","Hillsburgh","no",,,,,,,
 46648,"CA-0456","small_airport","Roseville Field",43.3471211516,-80.43365478519999,,"NA","CA","CA-ON",,"no",,,,,,,
 298348,"CA-0457","small_airport","L'Île d'Entrée Airfield",47.276376,-61.712329,20,"NA","CA","CA-QC","L'Île d'Entrée","no",,,,,,"https://en.wikipedia.org/wiki/Entry_Island","Ile d'entré"
@@ -29103,7 +29103,7 @@
 307912,"GB-0888","closed","Heston Aerodrome",51.491815,-0.393909,105,"EU","GB","GB-ENG","London","no",,,,,,"https://en.wikipedia.org/wiki/Heston_Aerodrome","RAF Heston, Heston Air Park, Heston Airport"
 335860,"GB-0889","small_airport","Grove Field Airstrip",52.229,-1.61853,,"EU","GB","GB-ENG","Warwick, Warwickshire","no",,,,,,,
 335870,"GB-0890","small_airport","Wickhambrook Airstrip",52.175037,0.536485,397,"EU","GB","GB-ENG","Newmarket, Suffolk","no",,,,,,,
-335880,"GB-0891","small_airport","Rydinghurst Farm Airstrip",51.146765,-0.525563,,"EU","GB","GB-ENG","Guildford, Surrey","no",,,,,,,
+335880,"GB-0891","closed","Rydinghurst Farm Airstrip",51.146765,-0.525563,,"EU","GB","GB-ENG","Guildford, Surrey","no",,,,,,,
 335892,"GB-0892","small_airport","Whilton Airstrip",52.275223,-1.075908,,"EU","GB","GB-ENG",,"no",,,,,,,
 335895,"GB-0893","small_airport","Rhoshirwaun",52.84753,-4.68153,,"EU","GB","GB-WLS",,"no",,,,,,,"Trefgraig"
 335896,"GB-0894","small_airport","Dinas Farm Private Airstrip",52.897419,-4.572135,,"EU","GB","GB-WLS","Dinas","no",,,,,,,
@@ -65657,7 +65657,7 @@
 302255,"US-0219","closed","RNAS Cattewater/RAF Cattewater/RAF Mount Batten",50.358889,-4.13,,"EU","GB","GB-ENG","Devon","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Cattewater",
 302269,"US-0220","closed","Kingstown Municipal Airport/RAF Kingstown/RAF Carlisle",54.926944,-2.960278,,"EU","GB","GB-ENG","Cumbria","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Carlisle",
 302270,"US-0221","closed","RAF Cardington",52.108922,-0.422499,98,"EU","GB","GB-ENG","Bedford, Bedfordshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Cardington",
-302272,"US-0222","closed","RAF Chailey",50.955278,-0.055556,,"EU","GB","GB-ENG","Lewes, East Sussex","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Chailey",
+302272,"US-0222","closed","RAF Chailey",50.95521,-0.055876,,"EU","GB","GB-ENG","Lewes, East Sussex","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Chailey",
 317247,"US-0223","heliport","Sutter Health Memorial Medical Center Heliport",37.669127,-120.972088,97,"NA","US","US-CA","Modesto","no",,,,,,,
 309370,"US-0224","small_airport","Cooper Airfield",19.726675,-155.524542,6390,"OC","US","US-HI","Waimea (Kamuela)","no",,,,,,,"Camp Pohakuloa, Pohakuloa Training Area"
 309373,"US-0225","heliport","Treasure Island Helipad",37.819896,-122.364774,7,"NA","US","US-CA","San Francisco","no",,,,,,,
@@ -69467,6 +69467,7 @@
 600394,"US-12755","small_airport","Wright Airport",31.138124,-100.274885,2440,"NA","US","US-TX","San Angelo","no",,,"TE54","TE54",,,
 600396,"US-12756","small_airport","Plane & Fancy Airport",30.973876,-100.138684,2214,"NA","US","US-TX","Fort McKavett","no",,,"TS87","TS87",,,
 600399,"US-12757","heliport","Christus Good Shepherd Henderson Heliport",32.131111,-94.781389,430,"NA","US","US-TX","Henderson","no",,,"TX85","TX85",,,
+600569,"US-12758","closed","Paraborne",28.13983,-81.38583,68,"NA","US","US-FL","Kissimmee, Florida","no",,,,,,"https://en.wikipedia.org/wiki/Paraborne_Aviation","FL46"
 334315,"US-1276","small_airport","Lightfoot Farms Airport",44.484683,-95.509194,975,"NA","US","US-MN","Vesta","no",,,"8MN4","8MN4",,,
 334317,"US-1277","small_airport","Dungan Airport",39.719401,-85.269278,1064,"NA","US","US-IN","Connersville","no",,,"IN12","IN12",,,
 334319,"US-1278","heliport","Foote Farm Association RLA Heliport",43.989494,-73.239858,167,"NA","US","US-VT","Cornwall","no",,,"VT54","VT54",,,
