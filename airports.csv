@@ -51162,8 +51162,9 @@
 353567,"OM-0034","heliport","Khasab Hospital Heliport",26.18199,56.25193,30,"AS","OM","OM-MU","Khasab","no",,,,,,,
 353568,"OM-0035","heliport","Camp Khasab Heliport",26.18016,56.25135,30,"AS","OM","OM-MU","Khasab","no",,,,,,,
 356224,"OM-0036","small_airport","Sarfayt Airport",16.7011,53.09786,4360,"AS","OM","OM-ZU","Sarfayt","no",,,,,,,
-32115,"OM-0037","closed","Firq Air Base",22.869085,57.543615,1560,"AS","OM","OM-DA","Firq","no",,,,,,,"OOFQ, OOFQ"
+32115,"OM-0037","closed","Firq Air Base / Nizwa Airport",22.866617,57.544223,1560,"AS","OM","OM-DA","Nizwa","no",,,,,,"https://en.wikipedia.org/wiki/Firq_Air_Base","OOFQ, OONZ"
 32387,"OM-0038","closed","Sur Airport",22.537729,59.479766,20,"AS","OM","OM-SH","Sur","no",,,,,,"https://en.wikipedia.org/wiki/Sur_Airport","OOSR, SUH"
+600697,"OM-0039","heliport","Nizwa Hospital Heliport",22.855658,57.522463,1534,"AS","OM","OM-DA","Nizwa","no",,,,,,,
 2,"OM11","small_airport","Abu Dhabi Northeast Airport - Suweihan Air Base",24.526793,54.974812,88,"AS","AE","AE-AZ","Abu Dhabi","no","OMAW",,"OMAW",,,"https://en.wikipedia.org/wiki/Abu_Dhabi_Northeast_Airport","OM11"
 5226,"OMAA","large_airport","Zayed International Airport",24.443764,54.651718,88,"AS","AE","AE-AZ","Abu Dhabi","yes","OMAA","AUH","OMAA",,"http://www.abudhabiairport.ae/","https://en.wikipedia.org/wiki/Abu_Dhabi_International_Airport","Abu Dhabi International"
 42260,"OMAB","small_airport","Buhasa Airport",23.599701,53.379398,,"AS","AE","AE-AZ",,"no","OMAB",,"OMAB",,,"https://en.wikipedia.org/wiki/Buhasa_Airport",
@@ -58665,7 +58666,7 @@
 35986,"SIGU","small_airport","Fazenda San Jose I Airport",-19.815147,-53.827834,2116,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,"SI6A","MS0660",,,"SIGU, Fazenda Café no Bule"
 35987,"SIGV","heliport","Rede Record Helipad",-23.523759,-46.66253,2412,"SA","BR","BR-SP","São Paulo","no",,,"SIGV","SP0497",,,
 35989,"SIGX","small_airport","Fazenda Gairova Airport",-11.198073,-58.235682,1083,"SA","BR","BR-MT","Juara","no",,,"SIGX","MT0095",,,
-35990,"SIGY","small_airport","Fazenda Progresso Airport",-7.5025000572205,-44.20333480835,1476,"SA","BR","BR-PI","Sebastião Leal","no",,,"SWUV","SWUV",,,"SIGY"
+35990,"SIGY","small_airport","Fazenda Progresso Airport",-7.502616,-44.198505,1476,"SA","BR","BR-PI","Sebastião Leal","no",,,"SWUV","PI0046",,,"SIGY"
 35991,"SIGZ","heliport","Represa Helipad",-23.617111,-46.698911,2835,"SA","BR","BR-SP","São Paulo","no",,,"SIGZ","SP0498",,,"Banco de Boston II"
 524557,"SIH2","small_airport","Fazenda Porteira Airport",-12.282074,-48.673114,869,"SA","BR","BR-TO","Peixe","no",,,"SIH2","TO0137",,,
 534506,"SIH3","small_airport","Fazenda Santa Clara Airport",-14.211406,-51.12295,889,"SA","BR","BR-MT","Cocalinho","no",,,"SIH3","MT0991",,,
@@ -63312,8 +63313,8 @@
 589,"SWUQ","small_airport","Surucucu Airport",2.83528,-63.646999,2854,"SA","BR","BR-RR","Alto Alegre","no",,,"SWUQ","RR0113",,"https://pt.wikipedia.org/wiki/Aeroporto_Surucucu",
 42240,"SWUR","small_airport","Fazenda Vista Verde Airport",-8.491526,-44.384519,1945,"SA","BR","BR-PI","Palmeira Do Piauí","no",,,"SWOQ","PI0044",,,"SWUR"
 38111,"SWUW","small_airport","Fazenda Okuhara Airport",-15.110948,-56.836696,807,"SA","BR","BR-MT","Barra do Bugres","no",,,"SWUW","MT0414",,,"Fazenda Santa Bárbara II, Alto Paraguai"
-323574,"SWUX","small_airport","Fazenda 4 Amigos Airport",-9.409722,-49.668333,604,"SA","BR","BR-TO","Abreulândia","no",,,"SWUX",,,,
-591,"SWUZ","small_airport","Brigadeiro Araripe Macedo Airport",-16.2617,-47.9687,3269,"SA","BR","BR-GO","Luziânia","no",,,"SWUZ","SWUZ",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Luzi%C3%A2nia",
+323574,"SWUX","closed","Fazenda 4 Amigos Airport",-9.244835,-49.666942,604,"SA","BR","BR-TO","Abreulândia","no",,,,,,,"SWUX, TO0051"
+591,"SWUZ","small_airport","Brigadeiro Araripe Macedo Airport",-16.26174,-47.968717,3269,"SA","BR","BR-GO","Luziânia","no",,,"SWUZ","GO0025",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Luzi%C3%A2nia",
 564920,"SWVB","heliport","ICPB Heliport",-27.143296,-48.532353,18,"SA","BR","BR-SC","Porto Belo","no","SWVB",,"SWVB","SC0206",,,
 38114,"SWVC","small_airport","Vila Rica Airport",-9.981057,-51.140358,833,"SA","BR","BR-MT","Vila Rica","no","SWVC","VLP","SWVC","MT0016",,"https://en.wikipedia.org/wiki/Vila_Rica_Airport",
 38117,"SWVF","small_airport","Fazenda Santo Antônio Guaporé Airport",-16.008766,-59.920008,741,"SA","BR","BR-MT","Vila Bela da Santíssima Trindade","no",,,"SWVF","MT0415",,,"Sede Nova"
@@ -63323,7 +63324,7 @@
 38121,"SWVK","small_airport","Fazenda Vale do Rio Celeste Airport",-13.035319,-55.32782,1450,"SA","BR","BR-MT","Nova Ubiratã","no",,,"SWVK","MT0417",,,
 316513,"SWVM","heliport","Vinte e Oito Helipad",-19.962612,-43.958441,3340,"SA","BR","BR-MG","Belo Horizonte","no",,,"SWVM","MG0288",,,
 38123,"SWVN","small_airport","Nova Era & Thomazi Agropecuárias Airport",-13.634017,-59.796052,2054,"SA","BR","BR-MT","Comodoro","no",,,"SD4H","MT0698",,,"SWVN, Valdir Masutti Airport"
-38126,"SWVR","small_airport","Aeródromo do Canarinho",-11.906131,-55.456099,1460,"SA","BR","BR-MT","Sinop","no",,,"SWVR",,,,"Estância Rosália"
+38126,"SWVR","closed","Canarinho Airport",-11.906131,-55.456099,1460,"SA","BR","BR-MT","Sinop","no",,,,,,,"SWVR, MT0418, Estância Rosália"
 38127,"SWVS","small_airport","Baia do Padre Airport",-15.861972,-60.04039,675,"SA","BR","BR-MT","Vila Bela da Santíssima Trindade","no",,,"SWVS","MT0419",,,"Fazenda Sto Antônio do Guaporé"
 41096,"SWVU","small_airport","Fazenda Ramalhete Airport",-21.734006,-54.577275,1109,"SA","BR","BR-MS","Rio Brilhante","no",,,"SWVU","MS0398",,,
 38128,"SWVV","small_airport","Fazenda Bela Vista Airport",-15.755134,-60.095739,728,"SA","BR","BR-MT","Vila Bela da Santíssima Trindade","no",,,"SWVV","MT0420",,,"Fazenda Esperança"
