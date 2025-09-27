@@ -11518,7 +11518,7 @@
 506926,"AU-0536","heliport","Muskoka Helicopter Landing Site",-33.448833,151.073167,26,"OC","AU","AU-NSW","Gunderman","no",,,,"OZHDC",,,
 506931,"AU-0537","heliport","McLean Oval Helicopter Landing Site",-34.556037,148.368001,1385,"OC","AU","AU-NSW","Harden","no",,,,"OZHJK",,,
 507115,"AU-0538","small_airport","Tinbeerwah Airstrip (private)",-26.411335,152.962976,,"OC","AU","AU-QLD","Cooroy","no",,,,"QN00",,,
-507237,"AU-0539","closed","Western Sydney International Airport (under construction)",-33.886241,150.715685,,"OC","AU","AU-WA","Sydney","no",,,,,"https://www.westernsydney.com.au/","https://en.wikipedia.org/wiki/Western_Sydney_Airport","YWSI, WSI"
+507237,"AU-0539","closed","Western Sydney International Airport (under construction)",-33.886241,150.715685,,"OC","AU","AU-WA","Sydney","no",,,,,"https://www.westernsydney.com.au/","https://en.wikipedia.org/wiki/Western_Sydney_Airport","YSWS, WSI"
 507244,"AU-0540","closed","RAAF Station Schofields",-33.713611,150.871111,49,"OC","AU","AU-NSW","Sydney","no",,,,,,"https://en.wikipedia.org/wiki/RAAF_Station_Schofields",
 507245,"AU-0541","closed","Fleurs Aerodrome",-33.863056,150.774167,138,"OC","AU","AU-NSW","Kemps Creek","no",,,,,,"https://en.wikipedia.org/wiki/Fleurs_Aerodrome",
 507246,"AU-0542","closed","Castlereagh Aerodrome",-33.676944,150.6875,151,"OC","AU","AU-NSW","Sydney","no",,,,,,"https://en.wikipedia.org/wiki/Castlereagh_Aerodrome",
@@ -19442,7 +19442,7 @@
 354402,"CN-0323","heliport","Chigua Jiao (Johnson South Reef) Helipad",9.716206,114.287054,,"AS","CN","CN-46","Sansha (Chigua Jiao / Johnson South Reef)","no",,,,,,"https://en.wikipedia.org/wiki/Johnson_South_Reef",
 354404,"CN-0324","heliport","Dongmen Jiao (Hughes Reef) Helipad",9.908255,114.49831,,"AS","CN","CN-46","Sansha (Dongmen Jiao / Hughes Reef)","no",,,,,,"https://en.wikipedia.org/wiki/Hughes_Reef",
 354503,"CN-0328","heliport","Xixiangtang Police Heliport",22.840149,108.146303,,"AS","CN","CN-45","Nanning (Xixiangtang)","no",,,,,,,
-354507,"CN-0329","small_airport","Orku Baikouquan Airport (under construction)",46.018127,85.655293,,"AS","CN","CN-65","Urhu","no",,"WRH",,,,,
+354507,"CN-0329","small_airport","Wuerhe Airport",46.01761,85.657436,1134,"AS","CN","CN-65","Orku","no",,"WRH",,,,,"Orku Baikouquan, Urhu, Karamay"
 354508,"CN-0330","closed","Jiuquan Suzhou Airport (under construction)",39.887874,98.707352,4564,"AS","CN","CN-62","Jiuquan (Suzhou)","no",,,,,,,
 354509,"CN-0331","medium_airport","Jiuzhou Airport",26.998259,107.759571,,"AS","CN","CN-52","Jiuzhou","no",,,,,,,
 354511,"CN-0332","small_airport","Industrial Airport 601",32.389746,112.140112,,"AS","CN","CN-41","Xiangyang (Xiangzhou)","no",,,,,,,
@@ -25977,7 +25977,7 @@
 17440,"FL72","seaplane_base","Mezrah Seaplane Base",27.947500228881836,-82.39089965820312,6,"NA","US","US-FL","Tampa","no",,,"FL72","FL72",,,
 17442,"FL74","small_airport","Indian River Aerodrome",27.598600387573242,-80.50199890136719,25,"NA","US","US-FL","Vero Beach","no",,,"FL74","FL74",,,
 17443,"FL75","small_airport","Indian Hammock Airport",27.54199981689453,-80.83309936523438,65,"NA","US","US-FL","Fort Drum","no",,,"FL75","FL75",,,
-17444,"FL76","small_airport","Seven Springs Ranch Airport",28.963899612426758,-82.21949768066406,50,"NA","US","US-FL","Ocala","no",,,"FL76","FL76",,,
+17444,"FL76","closed","Seven Springs Ranch Airport",28.9639,-82.219498,50,"NA","US","US-FL","Ocala","no",,,,,,,"FL76, 25X"
 17445,"FL77","small_airport","Calusa Ranch Airport",26.05578,-81.06318,15,"NA","US","US-FL","Miles City","no",,,"FL77","FL77",,,
 17446,"FL78","small_airport","Lewis Airport",27.89859962463379,-82.18260192871094,45,"NA","US","US-FL","Brandon","no",,,"FL78","FL78",,,
 17447,"FL80","small_airport","Lee Farms Airport",29.334699630737305,-82.16680145263672,100,"NA","US","US-FL","Lowell","no",,,"FL80","FL80",,,
@@ -29491,7 +29491,7 @@
 29701,"GB-1269","small_airport","Bicester Airfield",51.916698,-1.13194,266,"EU","GB","GB-ENG","Bicester","no",,,,,,"https://en.wikipedia.org/wiki/Bicester_Airfield","RAF Bicester, EGDD"
 30567,"GB-1270","small_airport","Woodbridge Airfield",52.09,1.40583,95,"EU","GB","GB-ENG","Woodbridge, Suffolk","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Woodbridge","EGVG, RAF Woodbridge"
 30595,"GB-1271","small_airport","Strubby Glider Field",53.30775,0.16737,46,"EU","GB","GB-ENG","Alford, Lincolnshire","no",,,"EGYI",,"http://www.lincsgliding.org.uk/","https://en.wikipedia.org/wiki/RAF_Strubby","RAF Strubby, Lincolnshire Gliding Club"
-32687,"GB-1272","small_airport","Wethersfield Air Base",51.971901,0.509444,322,"EU","GB","GB-ENG","Braintree, Essex","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Wethersfield","RAF Wethersfield, EGVT"
+32687,"GB-1272","small_airport","Wethersfield Air Base",51.971901,0.509444,322,"EU","GB","GB-ENG","Braintree, Essex","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Wethersfield","RAF Wethersfield, EGVT, WXF"
 41917,"GB-1273","small_airport","Plockton Airstrip",57.335499,-5.67308,226,"EU","GB","GB-SCT","Plockton","no",,,,,,,"EGEV"
 46641,"GB-1274","small_airport","Crosland Moor Airfield",53.621667,-1.830278,825,"EU","GB","GB-ENG","Huddersfield, West Yorkshire","no",,,,,,"https://en.wikipedia.org/wiki/Crosland_Moor_Airfield","EGND"
 307540,"GB-1275","small_airport","Breighton Airfield",53.802794,-0.917179,163,"EU","GB","GB-ENG","Selby, North Yorkshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Breighton","EGBR"
@@ -30134,7 +30134,7 @@
 3176,"HEAR","medium_airport","El Arish International Airport",31.078565,33.836791,118,"AS","EG","EG-SIN","El Arish","yes","HEAR","AAC","HEAR",,,"https://en.wikipedia.org/wiki/El_Arish_International_Airport",
 3177,"HEAT","medium_airport","Asyut International Airport",27.050818,31.016309,748,"AF","EG","EG-AST","Asyut","yes","HEAT","ATZ","HEAT",,,"https://en.wikipedia.org/wiki/Assiut_Airport","Asyut"
 3179,"HEAZ","medium_airport","Almaza Air Force Base",30.091702,31.359739,246,"AF","EG","EG-C","El Nozha","no",,,"HEAZ",,,"https://en.wikipedia.org/wiki/Almaza_Air_Base",
-3180,"HEBA","medium_airport","Borj El Arab International Airport",30.93249,29.696437,171,"AF","EG","EG-ALX","Alexandria","yes","HEBA","HBE","HEBA",,,"https://en.wikipedia.org/wiki/Borg_El_Arab_Airport",
+3180,"HEBA","large_airport","Alexandria International Airport",30.93249,29.696437,171,"AF","EG","EG-ALX","Alexandria","yes","HEAX","HBE","HEBA",,,"https://en.wikipedia.org/wiki/Borg_El_Arab_Airport",
 3181,"HEBL","medium_airport","Abu Simbel Airport",22.367657,31.609962,614,"AF","EG","EG-ASN","Abu Simbel","yes","HEBL","ABS","HEBL",,,"https://en.wikipedia.org/wiki/Abu_Simbel_Airport",
 3182,"HEBS","medium_airport","Bani Sweif Air Base",29.20224,31.013471,102,"AF","EG","EG-BNS","Bani Sweif","no",,,"HEBS",,,,
 3183,"HECA","large_airport","Cairo International Airport",30.111534,31.396694,322,"AF","EG","EG-C","Cairo","yes","HECA","CAI","HECA",,,"https://en.wikipedia.org/wiki/Cairo_International_Airport",
@@ -56502,7 +56502,7 @@
 39115,"SCCS","small_airport","Santa Rita Airport",-33.2775,-71.45639,738,"SA","CL","CL-VS","Casablanca","no",,,"SCCS",,,"https://en.wikipedia.org/wiki/Santa_Rita_Airport_(Chile)",
 29800,"SCCT","small_airport","Quivolgo Airport",-35.308601,-72.392799,36,"SA","CL","CL-ML","Constitucion","no",,,"SCCT",,,"https://en.wikipedia.org/wiki/Quivolgo_Airport",
 39116,"SCCU","small_airport","Lolco Airport",-38.158054,-71.423889,2132,"SA","CL","CL-AR","Lonquimay","no",,,"SCCU",,,"https://en.wikipedia.org/wiki/Lolco_Airport",
-29812,"SCCV","small_airport","Curacaví Airport",-33.4128,-71.165604,686,"SA","CL","CL-RM","Curacaví","no",,,"SCCV",,,"https://en.wikipedia.org/wiki/Curacav%C3%AD_Airport",
+29812,"SCCV","small_airport","Curacaví Airport",-33.4128,-71.165604,666,"SA","CL","CL-RM","Curacaví","no","SCCV",,"SCCV",,,"https://en.wikipedia.org/wiki/Curacav%C3%AD_Airport","Curacaví, Aeródromo de Curacaví"
 6011,"SCCY","medium_airport","Teniente Vidal Airport",-45.5942,-72.106102,1020,"SA","CL","CL-AI","Coyhaique","no","SCCY","GXQ","SCCY",,,"https://en.wikipedia.org/wiki/Teniente_Vidal_Airfield",
 6012,"SCDA","medium_airport","Diego Aracena Airport",-20.5352,-70.181297,155,"SA","CL","CL-TA","Iquique","yes","SCDA","IQQ","SCDA",,"http://www.aeropuertodiegoaracena.cl/EN/Default.aspx#","https://en.wikipedia.org/wiki/Diego_Aracena_International_Airport",
 39117,"SCDD","small_airport","Don Dobri Airport",-41.235473,-72.514667,226,"SA","CL","CL-LL","Puerto Varas","no",,,"SCDD",,,"https://en.wikipedia.org/wiki/Don_Dobri_Airport",
@@ -63383,7 +63383,7 @@
 38174,"SWYW","small_airport","Fazenda Adriana Airport",-16.834061,-53.83648,2451,"SA","BR","BR-MT","Alto Garças","no",,,"SWYW","MT0440",,,
 38175,"SWYY","small_airport","Fazenda Nova Viena Airport",-14.88443,-52.278779,974,"SA","BR","BR-MT","Nova Xavantina","no",,,"SWYY","MT0442",,,
 38176,"SWYZ","heliport","Residência Oficial Heliport",-20.327198,-40.269191,59,"SA","BR","BR-ES","Vila Velha","no",,,"SJIE","ES0020",,,"SWYZ"
-342109,"SWZ","heliport","Western Sydney International (Nancy Bird Walton) Airport",-33.879444,150.739722,228,"OC","AU","AU-NSW","Sydney (Badgerys Creek)","no",,"SWZ",,,,"https://en.wikipedia.org/wiki/Western_Sydney_Airport",
+342109,"SWZ","heliport","(Duplicate)Western Sydney International (Nancy Bird Walton) Airport",-33.879444,150.739722,228,"OC","AU","AU-NSW","Sydney (Badgerys Creek)","no",,,,,,"https://en.wikipedia.org/wiki/Western_Sydney_Airport",
 38177,"SWZA","small_airport","Agrosan Airport",-11.397556,-58.121521,1040,"SA","BR","BR-MT","Juara","no",,,"SWZA","MT0443",,,
 38178,"SWZB","small_airport","Fazenda Arara Azul Airport",-17.005472,-56.459641,384,"SA","BR","BR-MT","Barão de Melgaço","no",,,"SJHZ","MT0181",,,"SWZB"
 38179,"SWZC","small_airport","Fazenda Corixo Airport",-16.245331,-58.894444,492,"SA","BR","BR-MT","Porto Esperidião","no",,,"SWZC","MT0444",,,
@@ -79921,7 +79921,7 @@
 525279,"WAMS","small_airport","Miangas Airport",5.560419,126.580095,9,"AS","ID","ID-SA","Miangas","no","WAMS","IAX","WAMS",,,"https://en.wikipedia.org/wiki/Miangas_Airport",
 41441,"WAMU","small_airport","Wuasa Airport",-1.425,120.316391,1,"AS","ID","ID-ST","Wuasa-Celebes Island","no",,,"WAMU",,,,
 41405,"WAMY","small_airport","Buol - Pogogul Airport",1.102318,121.413358,49,"AS","ID","ID-ST","Buol-Celebes Island","yes","WAFY","UOL","WAFY",,,"https://en.wikipedia.org/wiki/Pogogul_Airport","WAMY, Pangtiku Airport"
-316465,"WAN","small_airport","Waverney Airport",-25.3563,141.9254,570,"OC","AU","AU-QLD","Waverney","no",,"WAN",,,,,
+316465,"WAN","small_airport","Waverney Airport",-25.356917,141.925593,570,"OC","AU","AU-QLD","Waverney","no",,,,,,,"WAN"
 26775,"WAOC","small_airport","Bersujud Airport",-3.41241,115.995003,3,"AS","ID","ID-KS","Batu Licin","yes","WAOC","BTW","WAOC",,,"http://id.wikipedia.org/wiki/Bandar_Udara_Bersujud","WRBC, Batulicin"
 525737,"WAOG","small_airport","Sekapung Airport",-3.626954,116.370352,7,"AS","ID","ID-KS","Sekapung, Kotabaru","no",,,"WAOG",,,,"Sebuku"
 26776,"WAOH","small_airport","Mekar Putih Airport",-3.989646,116.101499,197,"AS","ID","ID-KS","Mekar Putih, Kotabaru","no",,,"WAOH",,,"https://id.wikipedia.org/wiki/Bandar_Udara_Mekar_Putih",
