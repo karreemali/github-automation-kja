@@ -13525,7 +13525,7 @@
 334012,"BR-0626","small_airport","Fazenda Vale dos Sonhos Airport",-16.787734,-51.442479,2615,"SA","BR","BR-GO","Palestina de Goiás","no",,,"SWAV","GO0116",,,
 334015,"BR-0627","heliport","Marinas Portobello Heliport",-20.630575,-46.006719,2612,"SA","BR","BR-MG","Capitólio","no",,,"SWBL","MG0279",,,
 334017,"BR-0628","small_airport","Fazenda Sossego Airport",-22.354727,-52.674356,1191,"SA","BR","BR-SP","Rosana","no",,,"SSHQ","SP0247",,,
-334018,"BR-0629","small_airport","Fazenda Paraíso Airport",3.313599,-60.34713,200,"SA","BR","BR-RR","Boa Vista","no",,,,,,,"SWBM"
+334018,"BR-0629","small_airport","Fazenda Paraíso Airport",3.313599,-60.34713,251,"SA","BR","BR-RR","Bonfim","no",,,"SS66","RR0140",,,"SWBM, Boa Vista"
 334020,"BR-0630","small_airport","Fazenda Pensamento Airport",-20.130726,-57.653611,272,"SA","BR","BR-MS","Corumbá","no",,,"SJFP","MS0164",,,
 334024,"BR-0631","small_airport","Fazenda Bela Vista Airport",-17.153917,-50.014445,1975,"SA","BR","BR-GO","Indiara","no",,,"SWBY","GO0117",,,
 334031,"BR-0632","small_airport","Fazenda Centúria Austrália Airport",-11.358406,-46.166274,2707,"SA","BR","BR-BA","Formosa do Rio Preto","no",,,"SWCE","BA0173",,,
@@ -14828,7 +14828,7 @@
 340,"BR-1948","small_airport","Santana do Araguaia Airport",-9.319906,-50.328536,614,"SA","BR","BR-PA","Santana do Araguaia","no",,"CMP","SD12","PA0017",,"https://en.wikipedia.org/wiki/Santana_do_Araguaia_Airport","SNKE"
 371,"BR-1949","closed","Fazenda Do Cantagalo Airport",-15.395899772644,-44.145198822021,1576,"SA","BR","BR-MG","Piedras do Maria Da Cruz","no",,,,,,,"SNPH, SNPH, SNPH"
 392,"BR-1950","closed","São Raimundo Nonato Airport",-9.03,-42.68,1247,"SA","BR","BR-PI","São Raimundo Nonato","no",,,,,,,"SNSN"
-446,"BR-1951","closed","Dionísio Cerqueira Airport",-26.288344,-53.6308,2723,"SA","BR","BR-SC","Dionísio Cerqueira","no",,,,,,"https://pt.wikipedia.org/wiki/Aeroporto_de_Dion%C3%ADsio_Cerqueira","SSDC, SC0012"
+446,"BR-1951","small_airport","Dionísio Cerqueira Airport",-26.288337,-53.630779,2703,"SA","BR","BR-SC","Dionísio Cerqueira","no",,,"SND6","SC0012",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Dion%C3%ADsio_Cerqueira","SSDC"
 448,"BR-1952","closed","Spessato Aviacao Agricola Airport",-22.215900421143,-54.741901397705,1470,"SA","BR","BR-MS","Dourados","no",,,,,,,"SSEA, SSEA, SSEA"
 454,"BR-1953","closed","Fazenda Recreio 3 Airport",-20.207542,-53.778935,1509,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,,,,,"SSFV"
 505,"BR-1954","closed","Fazenda San Marino Airport",-20.102199554443,-52.443901062012,1476,"SA","BR","BR-MS","Tres Lagoas","no",,,,,,,"SSSF, SSSF, SSSF"
@@ -16151,6 +16151,7 @@
 599994,"BR-3273","small_airport","Fazenda Ceres Airport",-13.182736,-45.636497,2618,"SA","BR","BR-BA","São Desidério","no",,,"SD07","BA0502",,,
 600248,"BR-3274","small_airport","Fazenda Nova Conquista Airport",-12.020664,-51.334969,886,"SA","BR","BR-U-A","Serra Nova Dourada","no",,,"SD15","MT1140",,,
 600296,"BR-3275","small_airport","Andrea Airstrip",0.322621,-67.343575,256,"SA","BR","BR-AM","São Gabriel da Cachoeira,","no",,,,,,,
+600839,"BR-3276","small_airport","Fazenda Terra Preta Airport",-0.876254,-61.933147,131,"SA","BR","BR-RR","Caracaraí","no",,,"SS7C","RR0162",,,
 30637,"BR-ALT","small_airport","Alenquer Municipal Airport",-1.917,-54.7231,55,"SA","BR","BR-PA","Alenquer","no",,"ALT","SDWQ","PA0027",,"https://en.wikipedia.org/wiki/Alenquer_Airport",
 46168,"BS-0001","closed","Fowl Cay Airstrip",24.2707432941,-76.5409862995,,"NA","BS","BS-EX","Fowl Cay","no",,,,,,,
 46379,"BS-0002","closed","Port Nelson Airstrip",23.651411,-74.845051,,"NA","BS","BS-RC","Port Nelson","no",,,,,,,
@@ -43344,7 +43345,7 @@
 4301,"LHOY","small_airport","Őcsény Airfield",46.306138,18.767386,295,"EU","HU","HU-TO","Őcsény","no",,,"LHOY",,,"https://hu.wikipedia.org/wiki/%C5%90cs%C3%A9nyi_rep%C3%BCl%C5%91t%C3%A9r",
 30239,"LHPA","small_airport","Pápa Air Base",47.363602,17.500799,466,"EU","HU","HU-VE","Pápa","no",,,"LHPA",,,"https://en.wikipedia.org/wiki/P%C3%A1pa_Air_Base",
 4302,"LHPP","medium_airport","Pécs-Pogány Airport",45.988891,18.242044,651,"EU","HU","HU-BA","Pécs","yes","LHPP","PEV","LHPP",,"http://www.airportpecs.hu/","https://en.wikipedia.org/wiki/P%C3%A9cs-Pog%C3%A1ny_International_Airport","Pecs South Airport, QPJ"
-4303,"LHPR","medium_airport","Győr-Pér International Airport",47.628436,17.804718,424,"EU","HU","HU-GS","Pér","yes",,,"LHPR",,"http://www.gyor-perairport.hu/index.php?displang=eng","https://en.wikipedia.org/wiki/Gy%C5%91r-P%C3%A9r_International_Airport",
+4303,"LHPR","medium_airport","Győr-Pér International Airport",47.628436,17.804718,424,"EU","HU","HU-GS","Pér","yes","LHPR",,"LHPR",,"http://www.gyor-perairport.hu/index.php?displang=eng","https://en.wikipedia.org/wiki/Gy%C5%91r-P%C3%A9r_International_Airport","QGY"
 4304,"LHSA","small_airport","Szentkirályszabadja Airfield",47.0779,17.968399,919,"EU","HU","HU-VE","Szentkirályszabadja","no",,,"LHSA",,,"https://hu.wikipedia.org/wiki/Veszpr%C3%A9m-Szentkir%C3%A1lyszabadja_Rep%C3%BCl%C5%91t%C3%A9r",
 317532,"LHSB","small_airport","Szabadszállás-Balázspuszta Airfield",46.900278,19.366389,325,"EU","HU","HU-BK","Szabadszállás","no",,,"LHSB",,,,
 317567,"LHSI","small_airport","Sitke Airfield",47.234558,17.027178,,"EU","HU","HU-VA","Sitke","no",,,"LHSI",,,,
@@ -61179,7 +61180,7 @@
 552923,"SND8","heliport","GRP Heliport",-16.776503,-43.892925,2208,"SA","BR","BR-MG","Montes Claro","no",,,"SND8","MG0617",,,
 552513,"SND9","heliport","Santa Fé Heliport",-22.917831,-48.882775,2277,"SA","BR","BR-SP","Avaré","no",,,"SND9","SP1473",,,
 531950,"SNDA","small_airport","Fazenda Vale Formoso Airstrip",-15.381944,-58.649722,778,"SA","BR","BR-MT","Figueirópolis d'Oeste","no",,,"SNDA","MT0243",,,
-296,"SNDC","small_airport","Redenção Airport",-8.03329,-49.9799,670,"SA","BR","BR-PA","Redenção","no","SNDC","RDC","SNDC","SNDC",,"https://en.wikipedia.org/wiki/Reden%C3%A7%C3%A3o_Airport",
+296,"SNDC","small_airport","Redenção Airport",-8.031188,-49.979687,679,"SA","BR","BR-PA","Redenção","no","SNDC","RDC","SNDC","PA0030",,"https://en.wikipedia.org/wiki/Reden%C3%A7%C3%A3o_Airport",
 37057,"SNDD","small_airport","Fazenda Eldorado Airport",-3.692355,-45.26903,118,"SA","BR","BR-MA","Igarapé do Meio","no",,,"SBOT","MA0110",,,"SNDD"
 323601,"SNDE","heliport","BNDES Heliport",-22.908681,-43.180207,440,"SA","BR","BR-RJ","Rio de Janeiro","no",,,"SNDE",,,,
 37059,"SNDH","small_airport","Aba Airport",-12.162858,-45.033695,1682,"SA","BR","BR-BA","Barreiras","no",,,"SNDH",,,,
@@ -61940,6 +61941,7 @@
 569622,"SS2F","heliport","Villa Campestre Heliport",-26.195253,-49.293747,2966,"SA","BR","BR-SC","Campo Alegre","no",,,"SS2F","SC0245",,,
 569628,"SS2G","small_airport","Fazenda Chapéu Airport",-12.438571,-51.619941,1257,"SA","BR","BR-MT","Bom Jesus do Araguaia","no",,,"SS2G","MT1075",,,
 569639,"SS2I","heliport","Ilha de Curupu Heliport",-2.450972,-44.02855,16,"SA","BR","BR-MA","Raposa","no",,,"SS2I","MA0200",,,
+600796,"SS2J","heliport","Helijones Heliport",-20.165944,-44.367242,2822,"SA","BR","BR-MG","Itatiaiuçu","no",,,"SS2J","MG0623",,,
 570377,"SS2K","heliport","CBMRS Heliport",-30.04174,-51.20325,55,"SA","BR","BR-RS","Porto Alegre","no",,,"SS2K","RS0215",,,
 570383,"SS2L","heliport","IBRAME 1 Heliport",-22.484225,-44.552339,1355,"SA","BR","BR-RJ","Itatiaia","no",,,"SS2L","RJ0393",,,
 539582,"SS2M","small_airport","Fazenda 2M Airstrip",-14.006219,-47.017697,1558,"SA","BR","BR-GO","Nova Roma","no",,,"SS2M","GO0385",,,
@@ -62023,6 +62025,7 @@
 599346,"SS62","small_airport","Angelina Airstrip",-9.360494,-45.334419,2001,"SA","BR","BR-PI","Gilbués","no",,,"SS62","PI0117",,,
 599830,"SS63","small_airport","Fazenda Amizade Airport",-13.413326,-46.062485,2977,"SA","BR","BR-BA","Correntina","no",,,"SS63","BA0484",,,
 599832,"SS64","heliport","Nampur Trancoso Heliport",-16.576689,-39.091111,62,"SA","BR","BR-BA","Porto Seguro","no",,,"SS64","BA0486",,,
+600804,"SS67","small_airport","Estância Namuncurá Airstrip",-28.712415,-55.478389,320,"SA","BR","BR-RS","Itacurubi","no",,,"SS67","RS0219",,,
 598990,"SS68","small_airport","Fazenda União Airport",-11.630948,-52.021672,1142,"SA","BR","BR-MT","São Félix do Araguaia","no",,,"SS68","MT1108",,,
 598989,"SS69","small_airport","Eldorado dos Gerais Airport",-11.031722,-46.357139,2707,"SA","BR","BR-BA","Formosa do Rio Preto","no",,,"SS69","BA0491",,,
 598987,"SS6A","small_airport","Fazenda Novale Airport",-11.380416,-44.81754,1595,"SA","BR","BR-BA","Santa Rita de Cássia","no",,,"SS6A","BA0490",,,
@@ -62031,6 +62034,7 @@
 599347,"SS6E","small_airport","Aerosítio Airport",-3.84334,-38.445139,59,"SA","BR","BR-CE","Eusébio","no",,,"SS6E","CE0117",,,
 599348,"SS6G","heliport","Uberlândia Federal University Hospital Helipad",-18.881432,-48.260474,3186,"SA","BR","BR-MG","Uberlândia","no",,,"SS6G","MG0457",,,"UFU-8DJU"
 599349,"SS6H","small_airport","Fazenda São Judas Tadeu Airport",-20.928857,-52.683081,1151,"SA","BR","BR-MS","Brasilândia","no",,,"SS6H","MS0780",,,
+600807,"SS6I","small_airport","Fazenda Ema Airstrip",-8.557242,-49.957156,728,"SA","BR","BR-PA","Santa Maria das Barreiras","no",,,"SS6I","PA0429",,,
 600139,"SS6K","small_airport","Fazenda Geriva Airport",-21.153283,-52.476769,1289,"SA","BR","BR-MS","Brasilândia","no",,,"SS6K","MS0782",,,
 600141,"SS6L","small_airport","Fazenda Pajeú Airport",-4.95412,-44.25049,635,"SA","BR","BR-MA","Governador Archer","no",,,"SS6L","MA0205",,,
 600143,"SS6M","heliport","BSM Heliport",-18.528303,-44.619664,2174,"SA","BR","BR-MG","Morro da Garça","no",,,"SS6M","MG0641",,,
@@ -62039,6 +62043,21 @@
 600152,"SS6R","small_airport","Aero Desejo Airstrip",-16.501336,-39.099983,180,"SA","BR","BR-BA","Porto Seguro","no",,,"SS6R","BA0283",,,
 600148,"SS6S","heliport","Samuel Libânio  Hospital Helipad",-22.226904,-45.930511,2812,"SA","BR","BR-MG","Pouso Alegre","no",,,"SS6S","MG0632",,,
 600154,"SS6T","small_airport","MJ Marino Franz Airport",-12.367307,-56.252532,1280,"SA","BR","BR-MT","Ipiranga do Norte","no",,,"SS6T","MT1130",,,"Mano Julio"
+600811,"SS6U","heliport","RC Paraguaçu Heliport",-12.568272,-39.251111,472,"SA","BR","BR-BA","Cabaceiras","no",,,"SS6U","BA0497",,,
+600813,"SS6V","small_airport","Serra Vermelha Airport",-9.687297,-44.231434,2067,"SA","BR","BR-PI","Curimatá","no",,,"SS6V","PI0058",,,
+600815,"SS6W","small_airport","Fazenda Jutaituba Airport",-2.989108,-50.261606,124,"SA","BR","BR-PA","Portel","no",,,"SS6W","PA0431",,,
+600816,"SS6X","heliport","Napemo Heliport",-19.297282,-47.271311,2981,"SA","BR","BR-MG","Perdizes","no",,,"SS6X","MG0630",,,
+600818,"SS6Y","heliport","Faria lima Plaza Helistop",-23.566306,-46.693358,2825,"SA","BR","BR-SP","São Paulo","no",,,"SS6Y","SP1228",,,
+600819,"SS6Z","heliport","DPC Helipad",-19.86015,-44.052245,2963,"SA","BR","BR-MG","Contagem","no",,,"SS6Z","MG0643",,,
+600822,"SS72","heliport","Cimatec Park Heliport",-12.708442,-38.176489,115,"SA","BR","BR-BA","Camaçari","no",,,"SS72","BA0475",,,
+600824,"SS73","small_airport","Fazenda Boa Sorte Airport",-5.690586,-48.217306,446,"SA","BR","BR-PA","Palestina do Pará","no",,,"SS73","PA0432",,,
+600826,"SS74","small_airport","São João Airport",-9.462325,-57.025123,735,"SA","BR","BR-MT","Paranaíta","no",,,"SS74","MT1131",,,
+600828,"SS76","heliport","Santa Cecília Heliport",-22.978614,-43.27105,1168,"SA","BR","BR-RJ","Rio de Janeiro","no",,,"SS76","RJ0378",,,
+600830,"SS77","heliport","Deltaville Heliport",-27.479988,-48.668948,13,"SA","BR","BR-SC","Biguaçu","no",,,"SS77","SC0253",,,
+600832,"SS78","small_airport","Fazenda Vó Afife Airport",-10.098012,-52.779639,1058,"SA","BR","BR-MT","Santa Cruz do Xingu","no",,,"SS78","MT1129",,,
+600834,"SS79","heliport","Gratidão Heliport",-26.766222,-48.680967,16,"SA","BR","BR-SC","Balneário Piçarras","no",,,"SS79","SC0251",,,
+600836,"SS7A","heliport","Marina Escarpas Heliport",-20.627328,-46.019608,2566,"SA","BR","BR-MG","Capitólio","no",,,"SS7A","MG0629",,,
+600837,"SS7B","small_airport","Fazenda Pardes Airport",-11.014856,-61.933481,548,"SA","BR","BR-RO","Presidente Médici","no",,,"SS7B","RO0113",,,
 598551,"SS7Z","small_airport","Fazenda Paraiso Arpa Airport",-11.298736,-49.63974,650,"SA","BR","BR-TO","Dueré","no",,,"SS7Z","TO0154",,,
 598536,"SS82","small_airport","Carará Airport",-0.075011,-53.11976,529,"SA","BR","BR-PA","Almeirim","no",,,"SS82","PA0426",,,
 598535,"SS83","small_airport","Fazenda Cochilo Airport",-17.118721,-45.421015,1850,"SA","BR","BR-MG","Buritizeiro","no",,,"SS83","MG0633",,,
