@@ -27346,7 +27346,7 @@
 529244,"FR-1071","heliport","Oréliance Healh Center Heliport",47.93827,1.878656,394,"EU","FR","FR-CVL","Saran, Loiret","no",,,,,,,
 529245,"FR-1072","heliport","Lyon La Sauvegarde Hospital Heliport",45.788931,4.786801,906,"EU","FR","FR-ARA","Lyon","no",,,,,,,
 529246,"FR-1073","heliport","Apt Centre Hospitalier Heliport",43.875833,5.381944,869,"EU","FR","FR-PAC",,"no",,,,,,,
-529247,"FR-1074","heliport","Vallée de la Maurienne Hospital Heliport",45.277715,6.34182,1983,"EU","FR","FR-OCC","Saint-Jean-de-Maurienne, Savoie","no",,,,,,,
+529247,"FR-1074","heliport","Vallée de la Maurienne Hospital Heliport",45.277715,6.34182,1983,"EU","FR","FR-ARA","Saint-Jean-de-Maurienne, Savoie","no",,,,,,,
 529248,"FR-1075","heliport","Le Puy En Velay Centre Hospitalier Heliport",45.050475,3.879118,2108,"EU","FR","FR-ARA",,"no",,,,,,,
 529249,"FR-1076","heliport","Franche-Comté North Hospital Heliport",47.575996,6.87308,1263,"EU","FR","FR-BFC","Trévenans","no",,,,,,,"Hôpital Nord Franche-Comté"
 529250,"FR-1077","heliport","Vendome Centre Hospitalier Heliport",47.79404,1.061903,304,"EU","FR","FR-CVL",,"no",,,,,,,
@@ -27551,7 +27551,7 @@
 595807,"FR-1278","closed","Jumel Ultralight Airfield",49.757233,2.302594,413,"EU","FR","FR-HDF","Jumel","no",,,,,,,"LF8022"
 595924,"FR-1279","heliport","Base ULM Île de Ré",46.229429,-1.419833,20,"EU","FR","FR-NAQ","Île de Ré","no",,,,"DZIDR",,,
 596695,"FR-1280","heliport","Domaine de Senercy Heliport",49.766838,3.393981,,"EU","FR","FR-HDF","Senercy","no",,,,,,,
-597644,"FR-1281","closed","Oyonnax - Arbent",46.278611,5.666389,,"EU","FR","FR-U-A","Oyonnax","no",,,,,"https://fr.m.wikipedia.org/wiki/A%C3%A9rodrome_d%27Oyonnax_-_Arbent","https://fr.m.wikipedia.org/wiki/A%C3%A9rodrome_d%27Oyonnax_-_Arbent","LFLK"
+597644,"FR-1281","closed","(Duplicate)Oyonnax - Arbent",46.278611,5.666389,,"EU","FR","FR-U-A","Oyonnax","no",,,,,"https://fr.m.wikipedia.org/wiki/A%C3%A9rodrome_d%27Oyonnax_-_Arbent","https://fr.m.wikipedia.org/wiki/A%C3%A9rodrome_d%27Oyonnax_-_Arbent","LFLK"
 597830,"FR-1282","heliport","Sissonne DZ",49.540844,3.970774,,"EU","FR","FR-HDF","Sissonne","no",,,,,,,
 598002,"FR-1283","heliport","Béthune DZ",50.552843,2.633543,,"EU","FR","FR-HDF","Béthune","no",,,,,,,
 598057,"FR-1284","heliport","Brissay-Choigny",49.721622,3.380656,,"EU","FR","FR-HDF","Brissay-Choigny","no",,,,,,,
@@ -59391,7 +59391,7 @@
 36485,"SJDL","small_airport","Fazenda Paraíso Airport",-17.302378,-55.852776,1313,"SA","BR","BR-MS","Corumbá","no",,,"SJDL","MS0151",,,
 36486,"SJDN","small_airport","Fazenda Campo Alegre Airport",-19.456729,-55.741625,558,"SA","BR","BR-MS","Aquidauana","no",,,"SJDN","MS0152",,,
 36487,"SJDO","heliport","Maroum Heliport",-23.82192,-45.371325,10,"SA","BR","BR-SP","Ilhabela","no",,,"SJDO","SP0610",,,
-36488,"SJDP","heliport","My Way Heliport",-23.015344,-44.287831,98,"SA","BR","BR-RJ","Angra Dos Reis","no",,,"SJDP","RJ0101",,,
+36488,"SJDP","heliport","My Way Heliport",-23.015344,-44.287831,98,"SA","BR","BR-RJ","Angra dos Reis","no",,,"SJDP","RJ0101",,,
 36489,"SJDQ","heliport","Trade Tower Heliport",-22.897723,-47.04688,2294,"SA","BR","BR-SP","Campinas","no",,,"SJDQ","SP0611",,,
 36491,"SJDS","small_airport","M Dias Branco Airport",-3.917155,-38.489179,66,"SA","BR","BR-CE","Eusébio","no",,,"SJDS","CE0018",,,"Fábrica Fortaleza"
 36492,"SJDT","small_airport","Fazenda São Roque Airport",-19.51876,-55.312922,453,"SA","BR","BR-MS","Aquidauana","no",,,"SJDT","MS0153",,,
