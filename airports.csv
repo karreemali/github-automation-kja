@@ -44171,7 +44171,7 @@
 35053,"LT-9517","closed","Paliepiai Air Base",55.321701,23.52,354,"EU","LT","LT-KU","Kedainiai","no",,,,,,"https://en.wikipedia.org/wiki/Paliepiai",
 30018,"LT-9518","closed","Kaunas Gamykla Airfield",54.880001,23.9072,249,"EU","LT","LT-KU","Kaunas","no",,,,,,,"EYKG, EYKG"
 31033,"LT-9519","closed","Kazlų Rūda Air Base",54.80559921,23.5331001,243,"EU","LT","LT-MR","Kazlų Rūda","no",,,,,,"https://en.wikipedia.org/wiki/Kazlu_Ruda_airbase","EYKR, EYKR"
-34994,"LT-9520","closed","Jonava Air Base",55.009998,24.3633,246,"EU","LT","LT-KU","Jonava","no",,,,,,"https://en.wikipedia.org/wiki/Jonava_Airport","Rukla, EYRU"
+34994,"LT-9520","medium_airport","Jonava Air Base",55.009998,24.3633,246,"EU","LT","LT-KU","Jonava","no",,,,,,"https://en.wikipedia.org/wiki/Jonava_Airport","Rukla, EYRU"
 4508,"LTAB","small_airport","Güvercinlik Airport",39.9350013733,32.7407989502,2687,"AS","TR","TR-06","Ankara","no",,,"LTAB",,,"https://en.wikipedia.org/wiki/Ankara_G%C3%BCvercinlik_Army_Air_Base",
 4509,"LTAC","large_airport","Esenboğa International Airport",40.128101,32.995098,3125,"AS","TR","TR-06","Ankara","yes","LTAC","ESB","LTAC",,"https://esenbogaairport.com/","https://en.wikipedia.org/wiki/Esenbo%C4%9Fa_International_Airport",
 4510,"LTAD","medium_airport","Etimesgut Air Base",39.949798584,32.6885986328,2653,"AS","TR","TR-06","Ankara","no","LTAD","ANK","LTAD",,,"https://en.wikipedia.org/wiki/Etimesgut_Air_Base",
@@ -54370,6 +54370,7 @@
 600744,"RO-0172","closed","Teiu Former Agricultural Airstrip",44.656818,25.079598,735,"EU","RO","RO-AG","Teiu","no",,,,,,,"Arges, Romania"
 600746,"RO-0173","heliport","Siret Heliport",47.948075,26.066893,1058,"EU","RO","RO-SV","Siret","no",,,,,,,"Siret, Romania"
 600747,"RO-0174","heliport","Suceava ""St. John the New"" Emergency Hospital Heliport",47.638939,26.239724,,"EU","RO","RO-SV","Suceava","no",,,,,,,
+600919,"RO-0175","small_airport","Ruck Ventilatoare private airstrip",46.324995,24.308566,,"EU","RO","RO-MS","Târnăveni","no",,,,,,,
 300121,"RO02","heliport","Lester Helo Pad Nº 2",26.3172222222,127.764444444,26,"AS","JP","JP-47",,"no",,,"RO02",,,,
 300122,"RO04","heliport","White Beach Helipad CFAO",26.301666666699997,127.910277778,31,"AS","JP","JP-47",,"no",,,"RO04",,,,
 5671,"ROAH","large_airport","Naha Airport / JASDF Naha Air Base",26.195801,127.646004,12,"AS","JP","JP-47","Naha","yes","ROAH","OKA","ROAH",,"http://www.naha-airport.co.jp/","https://en.wikipedia.org/wiki/Naha_Airport","那覇空港, Naha Kūkō?, AHA, Naha AFB"
@@ -64835,7 +64836,7 @@
 46369,"UA-0071","closed","Zhovti Vody Airstrip",48.350502506,33.444271087599994,,"EU","UA","UA-12","Zhovti Vody","no",,,,,,,"Zholtyye Vody Airstrip, ЗПС Жовті Води, ВПП Жёлтые Воды, ВПП Желтые Воды"
 46370,"UA-0072","closed","Volodimirivka Airstrip",48.2840353492,33.4489488602,,"EU","UA","UA-12","Zhovti Vody","no",,,,,,,"ЗПС Володимирівка, ВПП Владимировка"
 46582,"UA-0073","heliport","Hydropark Heliport",50.458134,30.568124,,"EU","UA","UA-30","Kyiv","no",,,,,,,
-46584,"UA-0074","heliport","Mariinsky Park Heliport",50.449147,30.541149,,"EU","UA","UA-30","Kyiv","no",,,,,,,"Ukraine Presidential Heliport, Mariinsky Heliport"
+46584,"UA-0074","heliport","Mariinsky Park Heliport",50.449147,30.541149,548,"EU","UA","UA-30","Kyiv","no",,,"UKNT",,,,"УКНТ, Dnipro-1, Ukraine Presidential Heliport, Mariinsky Heliport"
 315690,"UA-0075","small_airport","Zhalizhnia",50.4734613,24.4743705,,"EU","UA","UA-46",,"no",,,,,,,
 315692,"UA-0076","closed","Turynka",50.120551,24.035789,,"EU","UA","UA-46",,"no",,,,,,,
 315925,"UA-0077","closed","Aerodrom Krupske",49.451556,24.043866,,"EU","UA","UA-46",,"no",,,,,,,
@@ -64985,7 +64986,7 @@
 569902,"UA-9870","closed","LyutIvka Airfield",50.290867,35.837666,730,"EU","UA","UA-63","Lyutivka","no",,,,,,,"Lyutovka, Лютівка, УПЛТ, UPLT"
 574533,"UA-9871","closed","Ozeryany Airfield",50.462433,26.010916,749,"EU","UA","UA-19","Ozeryany","no",,,,,,,"ЗБД5, Озеряни, ZBD5"
 595423,"UA-9872","small_airport","Rakytne Airfield",49.83241,35.9175,577,"EU","UA","UA-63","Rakytne","no",,,,,,,
-595629,"UA-9873","heliport","Pekari Heliport",49.69852,31.560553,,"EU","UA","UA-71","Pekari","no",,,,,,,
+595629,"UA-9873","heliport","Pekari Heliport",49.69717,31.563172,276,"EU","UA","UA-71","Pekari","no",,,"UKBE",,,,"УКБЕ, Пекарі"
 595630,"UA-9874","small_airport","Petrykivka Airfield",48.74488,34.63659,240,"EU","UA","UA-12","Petrykivka","no",,,,,,,
 595631,"UA-9875","closed","Polonne Airstrip",50.11822,27.45884,,"EU","UA","UA-68","Polonne","no",,,,,,,
 595633,"UA-9876","closed","Podorozhnje Airfield",49.03422,33.10005,456,"EU","UA","UA-35","Podorozhnje","no",,,,,,,
@@ -64997,6 +64998,8 @@
 597959,"UA-9882","heliport","Primorsky Heliport",45.126258,35.521349,38,"EU","UA","UA-43","Primorsky","no",,,,"XKFP",,,"ЬКФП, Приморський"
 597961,"UA-9883","heliport","Streletskaya Bukhta Heliport",44.604803,33.471857,2,"EU","UA","UA-40","Sevastopol","no",,,,"HF2R",,,"ХФ2Р, Стрілецька Бухта"
 597963,"UA-9884","heliport","Yuzhne Heliport",45.095652,35.733882,127,"EU","UA","UA-43","Yuzhne","no",,,,"HG98",,,"ХГ98, Южне"
+600927,"UA-9885","heliport","Botiyevska Wind Power Heliport",46.6273,35.736362,47,"EU","UA","UA-23","Primorskiy Posad","no",,,,,,,"HDL3, ХДЛ3, Приморський Посад, DTEK"
+600928,"UA-9886","heliport","Davydkovtsy Heliport",49.42165,27.149767,1168,"EU","UA","UA-68","Davydkovtsy","no",,,,,,,"UKLG, УКЛГ, Давидковтси"
 3549,"UA30","medium_airport","Batken Airport",40.042899,70.83784,3602,"AS","KG","KG-B","Batken","yes","UCFB",,"UCFB",,"http://www.airport.kg/index.php?option=com_content&view=article&id=4&Itemid=6","https://en.wikipedia.org/wiki/Batken_Airport","UAFB, Баткен"
 3964,"UA34","small_airport","Chardara Airport",41.2765007019043,67.97100067138672,709,"AS","KZ","KZ-YUZ","Shardara","no",,,"UA34","UA34",,,
 3966,"UA36","small_airport","Lugovoy Airport",42.972565,72.728051,2130,"AS","KZ","KZ-ZHA","Lugovoy","no",,,"UA36","XAAL",,,
@@ -65344,6 +65347,7 @@
 6486,"UKON","medium_airport","Mykolaiv International Airport",47.057899,31.9198,184,"EU","UA","UA-48","Nikolayev","yes","UKON","NLV","UKON",,"http://www.airport.nikolaev.ua/","https://en.wikipedia.org/wiki/Mykolaiv_Airport","Nikolayev Airport, Nikolaev Airport, Аэропорт Николаев"
 6487,"UKOO","medium_airport","Odessa International Airport",46.4268,30.6765,172,"EU","UA","UA-51","Odessa","yes","UKOO","ODS","UKOO",,"http://www.airport.od.ua/","https://en.wikipedia.org/wiki/Odessa_International_Airport","Odesa Central, Міжнародний аеропорт Одеса"
 324998,"UKOR","small_airport","Kulbakyne Air Base",46.936433,32.098618,177,"EU","UA","UA-48","Mykolaiv","no",,,"UKOR",,,"https://en.wikipedia.org/wiki/Kulbakino_Air_Base",
+600925,"UKVE","heliport","Zaporizhzhia/Motor Heliport",47.859994,35.322085,331,"EU","UA","UA-23","Zaporizhzhia","no",,,"UKVE",,,,"УКЖЕ, Запоріжжя/Мотор"
 315770,"UKVN","small_airport","Nalyvaikivka Airfield",50.479167,29.735833,,"EU","UA","UA-32","Nalyvaikivka","no",,,"UKVN",,"http://aeroprakt.org",,
 30535,"UKWW","medium_airport","Vinnytsia/Gavyryshivka International Airport",49.242531,28.613778,961,"EU","UA","UA-05","Vinnitsa","no","UKWW","VIN","UKWW",,,"https://en.wikipedia.org/wiki/Havryshivka_Vinnytsia_International_Airport","Gavrishevka Airport, Gavrishivka Airport, Аэропорт Гавришевка , Аэропорт Гавришiвка"
 6488,"ULAA","medium_airport","Talagi Airport",64.60030364990234,40.71670150756836,62,"EU","RU","RU-ARK","Archangelsk","yes","ULAA","ARH","ULAA",,,"https://en.wikipedia.org/wiki/Talagi_Airport","Арха́нгельск, Archangel"
@@ -66176,7 +66180,7 @@
 325102,"US-0684","heliport","Plant Franklin Heliport",32.607531,-85.094584,523,"NA","US","US-AL","Smiths Station","no",,,"2AL0","2AL0",,,
 325106,"US-0685","small_airport","Rocky Springs Airpark",33.988596,-87.077074,649,"NA","US","US-AL","Bremen","no",,,"AL30","AL30",,,
 325109,"US-0686","small_airport","Treeo Airport",30.591805,-87.822583,130,"NA","US","US-AL","Daphne","no",,,"4AL3","4AL3",,,
-325114,"US-0687","heliport","Bach Helipad",64.83085,-147.66045,453,"NA","US","US-AK","Fort Wainwright","no",,,"8AK0","8AK0",,,
+325114,"US-0687","heliport","Bach Helipad",64.83085,-147.66045,453,"NA","US","US-AK","Fort Wainwright","no",,,"8AK0","8AK0",,,"Bassett Army Hospital, Fairbanks"
 325123,"US-0688","small_airport","Fireweed Airport",61.42687,-142.97823,1320,"NA","US","US-AK","McCarthy","no",,,"0AK8","0AK8",,,"Iverson Farm Airport"
 325159,"US-0689","small_airport","Entz Home Airport",35.50288,-98.5375167,1613,"NA","US","US-OK","Hydro","no",,,"1OK2","1OK2",,,
 325163,"US-0690","small_airport","Entz Oliver Airport",35.522072,-98.523183,1570,"NA","US","US-OK","Hydro","no",,,"1OK6","1OK6",,,
