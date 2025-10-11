@@ -19946,7 +19946,7 @@
 577138,"COP5","small_airport","Cooper Falls Airstrip",44.778056,-79.248333,781,"NA","CA","CA-ON",,"no",,,"COP5","COP5",,,
 301225,"COR2","heliport","Val D'or (St. Pierre) Heliport",48.0774338086,-77.8686261177,1000,"NA","CA","CA-QC",,"no",,,"COR2",,,,
 332255,"COR3","small_airport","Orono Field",43.97278,-78.58945,590,"NA","CA","CA-ON",,"no",,,"COR3","COR3",,"https://en.wikipedia.org/wiki/Orono_Field_Aerodrome",
-321785,"COR8","small_airport","Orangeville/Rosehill Airfield",43.901929,-80.023782,1500,"NA","CA","CA-ON",,"no",,,"COR8","COR8",,"https://en.wikipedia.org/wiki/Orangeville/Rosehill_Aerodrome",
+321785,"COR8","closed","Orangeville/Rosehill Airfield",43.901929,-80.023782,1500,"NA","CA","CA-ON","Orangeville","no",,,,,,"https://en.wikipedia.org/wiki/Orangeville/Rosehill_Aerodrome","COR8"
 332268,"COS2","small_airport","Iona Station (Bobier Strip)",42.676389,-81.451111,755,"NA","CA","CA-ON",,"no",,,"COS2","COS2",,"https://en.wikipedia.org/wiki/Iona_Station_(Bobier_Strip)_Aerodrome",
 1370,"CPA2","heliport","Mount Forest (Louise Marshall Hospital) Heliport",43.97420120239258,-80.73750305175781,1365,"NA","CA","CA-ON","Mount Forest","no",,,"CPA2","CPA2",,,"PA2"
 1371,"CPA3","heliport","Palmerston (District Hospital) Heliport",43.83829879760742,-80.84190368652344,1300,"NA","CA","CA-ON","Palmerston","no",,,"CPA3","CPA3",,,"PA3"
@@ -20092,7 +20092,6 @@
 31952,"CR-0007","closed","Playa Blanca (J. W. Berteus) Airport",8.64999,-83.432998657227,6,"NA","CR","CR-P","Puntarenas","no",,,,,,,"MRPB, MRPB"
 31953,"CR-0008","closed","Paso Canoas Airport",8.530931,-82.841367,328,"NA","CR","CR-P","Paso Canoas","no",,,,,,,"MRPC, MRPC"
 597498,"CR-0009","large_airport","(Mislocated duplicate of MRLB) LIR",10.229845,-85.539551,,"NA","CR","CR-G",,"no",,,,,,,
-597499,"CR-0010","large_airport","LIR (Mislocated duplicate of ident: MRLB?)",10.465923,-85.534058,,"NA","CR","CR-G",,"no",,,,,,,
 355460,"CR8A","heliport","Reef Hueston Helicopter Landing",53.823101,-126.172228,,"NA","CA","CA-BC","Streatham","no",,,"CR8A","XV8",,,
 320492,"CRA2","small_airport","Rollick Airpark",44.1406,-79.484802,726,"NA","CA","CA-ON","Queensville","no",,,"CRA2","CRA2",,"https://en.wikipedia.org/wiki/Queensville_(Rollick_Airpark)_Aerodrome",
 1481,"CRB2","small_airport","Cottam Airport",42.13999938964844,-82.65280151367188,635,"NA","CA","CA-ON","Cottam","no",,,"CRB2","CRB2",,"https://en.wikipedia.org/wiki/Cottam_Airport","RB2"
@@ -44348,6 +44347,7 @@
 600129,"LV-8046","closed","Laukgals lidlauks",56.364264,21.148337,,"EU","LV","LV-112","Laukgals","no",,,,,,,
 600577,"LV-8047","closed","Durbe Airfield",56.587974,21.329041,148,"EU","LV","LV-112","Durbe","no",,,,,,"https://lv.m.wikipedia.org/wiki/Durbes_lidlauks",
 600876,"LV-8048","closed","Gulbene Airfield",57.163525,26.77052,,"EU","LV","LV-033","Gulbene","no",,,,,,"https://lv.m.wikipedia.org/wiki/Gulbenes_lidlauks",
+601019,"LV-8049","balloonport","Liepāja",56.501819,20.997697,,"EU","LV","LV-LPX","Liepāja","no",,,,,,,
 4668,"LW66","small_airport","Malo Konjari Sport Airfield",41.333099,21.4491,2034,"EU","MK","MK-005","Malo Konjari","no",,,,,,,"LW66, Prilep"
 4669,"LW67","small_airport","Kumanovo Airfield",42.154242,21.699328,1217,"EU","MK","MK-007","Kumanovo","no",,,,,,,"LW67, Adzi Tepe, Kumanovo Airbase"
 4672,"LW70","small_airport","Veles Airfield",41.758796,21.842451,1112,"EU","MK","MK-001","Karatmanovo","no",,,,,,,"Titov Veles, LW70, Велес"
@@ -48745,6 +48745,7 @@
 32441,"MZ-TGS","small_airport","Chokwé Airport",-24.520599365234375,32.965301513671875,,"AF","MZ","MZ-G","Chokwé","no",,"TGS",,,,,
 4956,"MZBZ","large_airport","Philip S. W. Goldson International Airport",17.539951,-88.303556,15,"NA","BZ","BZ-BZ","Belize City","yes","MZBZ","BZE","MZBZ",,"http://www.pgiabelize.com/","https://en.wikipedia.org/wiki/Philip_S._W._Goldson_International_Airport","Belize International, Ladyville"
 309571,"MZE","small_airport","Manatee Airport",17.27846,-89.0238,343,"NA","BZ","BZ-CY",,"no",,"MZE",,,,"https://en.wikipedia.org/wiki/Manatee_Airport",
+601014,"MZHR","small_airport","Belize Dive Haven Airstrip",17.231754,-87.865442,16,"NA","BZ","BZ-BZ","Ropewalk Caye, Turnette Atoll","no",,,"MZHR",,"https://belizedivehaven.com/how-to-get-to-belize-dive-haven/",,
 338066,"MZJC","small_airport","Johnny Chan Chen Airstrip",18.44031,-88.45334,26,"NA","BZ","BZ-CZL","Chan Chen","no",,,"MZJC",,,"https://en.wikipedia.org/wiki/Johnny_Chan_Chen_Airstrip",
 325351,"MZMF","small_airport","San Ignacio Town (Maya Flats) Airstrip",17.104872,-89.101129,351,"NA","BZ","BZ-CY","Maya Flats","no",,"CYD","MZMF",,,"https://en.wikipedia.org/wiki/San_Ignacio_Town_Airstrip","Maya Flats Airstrip"
 42217,"MZPL","medium_airport","Placencia Airport",16.536957,-88.361511,3,"NA","BZ","BZ-SC","Placencia","yes","MZPL","PLJ","MZPL","PLJ",,"https://en.wikipedia.org/wiki/Placencia_Airport",
@@ -71471,7 +71472,7 @@
 341371,"US-3197","closed","Kailua Sky Ranch",21.42779,-157.74784,,"OC","US","US-HI","Kailua","no",,,,,,,
 341372,"US-3198","closed","Waiele Gulch Army Airfield",21.47129,-158.04155,,"OC","US","US-HI","Wahiawa","no",,,,,,,
 341374,"US-3199","heliport","Queen's Medical Center West Oahu Helipad",21.37319,-158.02663,,"OC","US","US-HI","Ewa Beach","no",,,,,,,
-341375,"US-3200","heliport","Spark M Matsunaga VA Medical Center Helipad",21.3622,-157.88626,,"OC","US","US-HI","Honolulu","no",,,,,,,
+341375,"US-3200","heliport","Ttipler Army Medical Center Helipad",21.3622,-157.88626,,"NA","US","US-HI","Honolulu","no",,,,,,,
 341376,"US-3201","heliport","Adventist Health Castle Helipad",21.37957,-157.75815,,"OC","US","US-HI","Kailua","no",,,,,,,
 341377,"US-3202","heliport","Kona Community Hospital Helipad",19.52057,-155.91694,,"OC","US","US-HI","Kealakekua","no",,,,,,,
 341379,"US-3203","closed","Lightning Ranch Airstrip",32.43539,-110.11136,,"NA","US","US-AZ","Willcox","no",,,,,,,
@@ -75720,7 +75721,7 @@
 505793,"US-7443","closed","Hurt Airport",38.44307,-94.7047,1004,"NA","US","US-KS","Louisburg","no",,,,,,,
 505794,"US-7444","closed","Sellers Airport",39.46166,-94.37078,940,"NA","US","US-MO","Holt","no",,,,,,,
 505817,"US-7445","closed","Finley Airport",37.76865,-106.119,7647,"NA","US","US-CO","Center","no",,,,,,,
-505818,"US-7446","small_airport","Calhoun Airport",47.80598,-117.68548,2425,"NA","US","US-WA","Nine Mile Falls","no",,,,,,,
+505818,"US-7446","closed","Calhoun Airport",47.80598,-117.68548,2425,"NA","US","US-WA","Nine Mile Falls","no",,,,,,,
 505823,"US-7447","closed","O and N Airport",42.84139,-102.98987,3400,"NA","US","US-NE","Chadron","no",,,,,,,
 505824,"US-7448","closed","Morning Star Airport",32.74307,-91.24978,94,"NA","US","US-LA","Lake Providence","no",,,,,,,
 505825,"US-7449","closed","Bowie Airport",32.75523,-91.27377,92,"NA","US","US-LA","Lake Providence","no",,,,,,,
@@ -79419,6 +79420,7 @@
 311043,"VN-0074","closed","Vinh Long Airfield",10.2509,105.9445,27,"AS","VN","VN-SW","Vinh Long","no",,,,,,,"Vinh Long Airbase, XVL"
 319516,"VN-0075","closed","Long Xuyên Airport",10.330134,105.473144,12,"AS","VN","VN-SW","Long Xuyên","no",,,,,,"https://vi.wikipedia.org/wiki/S%C3%A2n_bay_Long_Xuy%C3%AAn","XLO, Vam Cong"
 319521,"VN-0076","closed","Quảng Ngãi Airfield",15.115474,108.771816,50,"AS","VN","VN-SCC","Quảng Ngãi","no",,,,,,"https://en.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i_Airfield","XNG, XNG"
+601024,"VN-0077","medium_airport","pg88cocom",23,102,,"AS","VN","VN-CH",,"no",,,,,"https://pg88.co.com/",,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
