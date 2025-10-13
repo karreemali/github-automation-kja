@@ -15685,32 +15685,32 @@
 37153,"BR-2804","small_airport","Las Casas Airport",-7.966944,-50.017223,1969,"SA","BR","BR-PA","Redenção","no",,,,,,,"SNLC"
 37154,"BR-2805","small_airport","Fazenda Serra Azul Airport",-5.6916,-56.490913,472,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SNLD"
 37155,"BR-2806","small_airport","Filial Campo Florido Airport",-19.815386,-48.737512,1959,"SA","BR","BR-MG","Campo Florido","no",,,,,,,"SNLF"
-37156,"BR-2807","small_airport","Lajinha Airport",-20.140277862549,-41.60916519165,2051,"SA","BR","BR-MG","Lajinha","no",,,,"SNLH",,,"SNLH"
-37157,"BR-2808","small_airport","Agropecuária Céu Aberto Ltda Airport",-9.5166673660278,-61.25,3428,"SA","BR","BR-MT","Aripuanã","no",,,,"SNLJ",,,"SNLJ"
-37158,"BR-2809","small_airport","Agropecuária Ferreira Penço Ltda Airport",-9.69848,-61.023919,3297,"SA","BR","BR-MT","Aripuanã","no",,,,"SNLK",,,"SNLK"
-37160,"BR-2810","small_airport","Fazenda Agropecuária Rancho 11 Airport",-15.614169,-58.900272,1001,"SA","BR","BR-MT","Porto Esperidião","no",,,,"SNLM",,,"SNLM"
-37161,"BR-2811","heliport","Santa Fé Heliport",-22.994361,-46.391569,2848,"SA","BR","BR-SP","Piracaia","no",,,,"SNLP",,,"SNLP"
-37163,"BR-2812","heliport","São Sebastião Heliport",-19.705506,-43.848163,2677,"SA","BR","BR-MG","Lagoa Santa","no",,,,"SNLS",,,"SNLS"
+37156,"BR-2807","small_airport","Lajinha Airport",-20.140388,-41.608235,2051,"SA","BR","BR-MG","Lajinha","no",,,,,,,"SNLH"
+37157,"BR-2808","small_airport","Agropecuária Céu Aberto Ltda Airport",-9.516667,-61.25,3428,"SA","BR","BR-MT","Aripuanã","no",,,,,,,"SNLJ"
+37158,"BR-2809","small_airport","Agropecuária Ferreira Penço Ltda Airport",-9.69848,-61.023919,3297,"SA","BR","BR-MT","Aripuanã","no",,,,,,,"SNLK"
+37160,"BR-2810","small_airport","Fazenda Agropecuária Rancho 11 Airport",-15.614531,-58.89789,1001,"SA","BR","BR-MT","Porto Esperidião","no",,,,,,,"SNLM"
+37161,"BR-2811","heliport","Santa Fé Heliport",-22.994361,-46.391569,2848,"SA","BR","BR-SP","Piracaia","no",,,,,,,"SNLP"
+37163,"BR-2812","heliport","São Sebastião Heliport",-19.705506,-43.848163,2677,"SA","BR","BR-MG","Lagoa Santa","no",,,,,,,"SNLS"
 37165,"BR-2813","small_airport","Lavrinhas Airport",-17.737851,-43.496241,3478,"SA","BR","BR-MG","Lavrinhas","no",,,,,,,"SNLV"
 37171,"BR-2814","small_airport","Morada Nova de Minas Airport",-18.59388923645,-45.353057861328,1988,"SA","BR","BR-MG","Morada Nova De Minas","no",,,,"SNMM",,,"SNMM"
 37173,"BR-2815","closed","Morada Nova Airport",-5.083611,-38.38361,509,"SA","BR","BR-CE","Morada Nova","no",,,,,,,"SNMO"
-37178,"BR-2816","small_airport","Agropecuária Paralelo Dez Ltda Airport",-9.9994440078735,-61.052223205566,3035,"SA","BR","BR-MT","Aripuanã","no",,,,"SNMW",,,"SNMW"
+37178,"BR-2816","small_airport","Agropecuária Paralelo Dez Ltda Airport",-9.999444,-61.052223,3035,"SA","BR","BR-MT","Aripuanã","no",,,,,,,"SNMW"
 37179,"BR-2817","heliport","Albrás Heliport",-1.56309,-48.737519,56,"SA","BR","BR-PA","Barcarena","no",,,,,,,"SNNA"
-37186,"BR-2818","small_airport","Fazenda Teragro Airport",-14.769444465637,-43.415279388428,1512,"SA","BR","BR-MG","Matias Cardoso","no",,,,"SNNK",,,"SNNK"
-37187,"BR-2819","heliport","Hospital de Olhos de Minas Gerais Heliport",-19.981573,-43.945617,3925,"SA","BR","BR-MG","Nova Lima","no",,,,"SNNL",,,"SNNL"
-37191,"BR-2820","small_airport","Fazenda Santa Lúcia Airport",-23.03888889,-54.7475,1640,"SA","BR","BR-MS","Porto Murtinho","no",,,,"SNNQ",,,"SNNQ"
-37192,"BR-2821","heliport","Modesto Heliport",-8.1116666793823,-34.897777557373,36,"SA","BR","BR-PE","Recife","no",,,,"SNNR",,,"SNNR"
-37193,"BR-2822","small_airport","Fazenda Jaibense Airport",-14.946110725403,-43.68111038208,1644,"SA","BR","BR-MG","Matias Cardoso","no",,,,"SNNS",,,"SNNS"
-37194,"BR-2823","small_airport","Fazenda Estrela do Sul Airport",-16.570556640625,-54.170833587646,1099,"SA","BR","BR-MT","Pedra Preta","no",,,,"SNNV",,,"SNNV"
-37196,"BR-2824","small_airport","Fazenda Espírito Santo Airport",-13.280555725098,-60.331111907959,1001,"SA","BR","BR-MT","Comodoro","no",,,,"SNNY",,,"SNNY"
+37186,"BR-2818","small_airport","Fazenda Teragro Airport",-14.769444,-43.415279,1512,"SA","BR","BR-MG","Matias Cardoso","no",,,,,,,"SNNK"
+37187,"BR-2819","heliport","Hospital de Olhos de Minas Gerais Heliport",-19.981573,-43.945617,3925,"SA","BR","BR-MG","Nova Lima","no",,,,,,,"SNNL"
+37191,"BR-2820","small_airport","Fazenda Santa Lúcia Airport",-23.039582,-54.746827,1640,"SA","BR","BR-MS","Porto Murtinho","no",,,,,,,"SNNQ"
+37192,"BR-2821","heliport","Modesto Heliport",-8.111682,-34.897578,36,"SA","BR","BR-PE","Recife","no",,,,,,,"SNNR"
+37193,"BR-2822","small_airport","Fazenda Jaibense Airport",-14.947123,-43.67009,1644,"SA","BR","BR-MG","Matias Cardoso","no",,,,,,,"SNNS"
+37194,"BR-2823","small_airport","Fazenda Estrela do Sul Airport",-16.570833,-54.168584,1099,"SA","BR","BR-MT","Pedra Preta","no",,,,,,,"SNNV"
+37196,"BR-2824","small_airport","Fazenda Espírito Santo Airport",-13.279683,-60.334729,1001,"SA","BR","BR-MT","Comodoro","no",,,,,,,"SNNY"
 37197,"BR-2825","small_airport","Fazenda Água Turva Airport",-22.123611,-57.103397,746,"SA","BR","BR-MS","Caracol","no",,,,"SNNZ",,,"SNNZ"
 37200,"BR-2826","heliport","Atlantis Heliport",-7.5641670227051,-34.858612060547,16,"SA","BR","BR-PE","Goiana","no",,,,"SNOH",,,"SNOH"
-37202,"BR-2827","small_airport","Minalpa - Mineração Alto Parnaíba Ltda. Airport",-10.4166669846,-56.3886108398,984,"SA","BR","BR-MT","Alta Floresta","no",,,,"SNOJ",,,"SNOJ"
-37206,"BR-2828","heliport","Fazenda Sesmaria Heliport",-22.597001,-46.853839,2280,"SA","BR","BR-SP","Amparo","no",,,,"SNOR",,,"SNOR"
-37211,"BR-2829","small_airport","Fazenda Canabrava Airport",-5.597044,-43.319875,689,"SA","BR","BR-MA","Parnarama","no",,,,"SNPF",,,"SNPF"
-37218,"BR-2830","small_airport","Passa Tempo Airport",-20.650556564331,-44.500556945801,3143,"SA","BR","BR-MG","Passa Tempo","no",,,,"SNPT",,,"SNPT"
-37219,"BR-2831","small_airport","Piaus Airport",-8.833610534668,-50.000556945801,591,"SA","BR","BR-PA","Piaus","no",,,,"SNPW",,,"SNPW"
-37222,"BR-2832","small_airport","Fazenda Val Paraíso Airport",-3.1683330535889,-48.071388244629,256,"SA","BR","BR-PA","Paragominas","no",,,,"SNQB",,,"SNQB"
+37202,"BR-2827","small_airport","Minalpa - Mineração Alto Parnaíba Ltda. Airport",-10.416667,-56.388611,984,"SA","BR","BR-MT","Alta Floresta","no",,,,,,,"SNOJ"
+37206,"BR-2828","heliport","Fazenda Sesmaria Heliport",-22.597001,-46.853839,2280,"SA","BR","BR-SP","Amparo","no",,,,,,,"SNOR"
+37211,"BR-2829","small_airport","Fazenda Canabrava Airport",-5.597044,-43.319875,689,"SA","BR","BR-MA","Parnarama","no",,,,,,,"SNPF"
+37218,"BR-2830","small_airport","Passa Tempo Airport",-20.650557,-44.500557,3143,"SA","BR","BR-MG","Passa Tempo","no",,,,,,,"SNPT"
+37219,"BR-2831","small_airport","Piaus Airport",-8.833611,-50.000557,591,"SA","BR","BR-PA","Piaus","no",,,,,,,"SNPW"
+37222,"BR-2832","small_airport","Fazenda Val Paraíso Airport",-3.168638,-48.071387,256,"SA","BR","BR-PA","Paragominas","no",,,,,,,"SNQB"
 37224,"BR-2833","heliport","Ilha Verde Heliport",-3.220891,-39.261761,20,"SA","BR","BR-CE","Trairi","no",,,,"SNQF",,,"SNQF"
 37226,"BR-2834","small_airport","Rancho Paraíso Airport",-17.522777557373,-55.400554656982,499,"SA","BR","BR-MS","Corumbá","no",,,,"SNQJ",,,"SNQJ"
 37228,"BR-2835","small_airport","Bom Jesus Airport",-15.734999656677,-57.346389770508,482,"SA","BR","BR-MT","Cáceres","no",,,,"SNQL",,,"SNQL"
@@ -32544,7 +32544,7 @@
 315975,"IT-0123","small_airport","Il Volo Airfield",40.421944,8.686667,,"EU","IT","IT-88","Pozzomaggiore (SS)","no",,,,"SS01",,,"Putumajore, Il Volo, Campo di Volo ""Il Volo"
 315977,"IT-0124","small_airport","La Quercia Airfield",40.963053,16.633016,1181,"EU","IT","IT-75","Toritto (BA)","no",,,,"BATDQ",,,"BA04"
 315978,"IT-0125","small_airport","Campo di Volo Platamona",40.813333,8.470278,26,"EU","IT","IT-88","Porto Torres (SS)","no",,,,"SSPLA",,,"Platamona"
-315979,"IT-0126","small_airport","""Delta Club Napoli"" Airfield",41.065757,13.962901,10,"EU","IT","IT-72","Castelvolturno","no",,,,"CECVO","https://www.deltaclubnapoli.com/",,"CE01, Aviosuperficie ""Delta Club Napoli"", Il Ranch"
+315979,"IT-0126","small_airport","Delta Club Napoli Airfield",41.065757,13.962901,10,"EU","IT","IT-72","Castelvolturno","no",,,,"CECVO","https://www.deltaclubnapoli.com/",,"CE01, Aviosuperficie ""Delta Club Napoli"", Il Ranch"
 315985,"IT-0128","small_airport","Fiorano Wings Airfield",45.11933,9.705951,,"EU","IT","IT-25","San Fiorano (LO)","no",,,,"LOSFI",,,"Campo di Volo Fiorano Wings"
 315987,"IT-0129","small_airport","Caposile Airfield",45.56529,12.576835,,"EU","IT","IT-34","San Donà di Piave","no",,,"LIKI","VECAP","http://www.aviosuperficiecaposile.it","https://de.wikipedia.org/wiki/Aviosuperficie_Caposile","Aviosuperficie Caposile, Papere Vagabonde, Club di Volo Papere Vagabonde"
 315988,"IT-0130","small_airport","Aquile Randagie Airfield",45.165629,11.03503,66,"EU","IT","IT-34","Gazzo Veronese (VR)","no",,,,"VRNOG",,,"Aviosuperficie Aquile Randagie, Campo di volo Aquile Randagie"
@@ -56882,7 +56882,7 @@
 344016,"SD0E","small_airport","Fazenda Tangará Airport",-9.668485,-50.782555,689,"SA","BR","BR-PA","Santana do Araguaia","no",,,"SD0E","PA0265",,,
 24503,"SD1","heliport","Soldotna Hospital H Heliport",60.492637,-151.078967,99,"NA","US","US-AK","Soldotna","no",,,,"SD1",,,
 599964,"SD10","small_airport","Fazenda Vale do Juruena 2 Airport",-9.3914,-58.221169,735,"SA","BR","BR-MT","Nova Bandeirantes","no",,,"SD10","MT1134",,,
-599965,"SD11","small_airport","""Amazon Runway""",-3.231842,-60.486547,151,"SA","BR","BR-AM","Manacapuru","no",,,"SD11","AM0120",,,
+599965,"SD11","small_airport","Amazon Runway",-3.231842,-60.486547,151,"SA","BR","BR-AM","Manacapuru","no",,,"SD11","AM0120",,,
 24504,"SD13","small_airport","Hofer Private Airport",44.86712,-98.07396,1368,"NA","US","US-SD","Doland","no",,,,"SD13",,,"Richfield Township, Spink County"
 24505,"SD14","small_airport","Valburg Ranch Airport",43.73389,-100.392054,1688,"NA","US","US-SD","Draper","no",,,,"SD14",,,
 551359,"SD15","small_airport","Fleurish Farm Airport",42.758063,-96.669323,1133,"NA","US","US-SD","Elk Point","no",,,,"SD15",,,
@@ -62105,7 +62105,7 @@
 600781,"SS9V","small_airport","Agroesser Airport",-9.890994,-49.17795,827,"SA","BR","BR-TO","Divinópolis do Tocantins","no",,,"SS9V","TO0161",,,
 600784,"SS9W","small_airport","Retiro Pouso Alto Fazenda Cruz Alta Airstrip",-19.016572,-55.81579,436,"SA","BR","BR-MS","Corumbá","no",,,"SS9W","MS0786",,,
 599074,"SS9X","heliport","Grupo 3T Heliport",-20.330189,-43.4527,2897,"SA","BR","BR-MG","Mariana","no",,,"SS9X","MG0647",,,
-600788,"SS9Y","heliport","""44"" Heliport",-16.37048,-49.520717,2674,"SA","BR","BR-GO","Inhumas","no",,,"SS9Y","GO0413",,,
+600788,"SS9Y","heliport","44 Heliport",-16.37048,-49.520717,2674,"SA","BR","BR-GO","Inhumas","no",,,"SS9Y","GO0413",,,
 600789,"SS9Z","small_airport","Fazenda Silmar Airstrip",-16.225,-60.08916,937,"SA","BR","BR-MT","Vila Bela da Santíssima Trindade","no",,,"SS9Z","MT1151",,,
 600130,"SSA0","small_airport","Fazenda Castelo Airstrip",-8.734705,-63.754952,269,"SA","BR","BR-RO","Porto Velho","no",,,"SSA0","RO0115",,,
 600791,"SSA3","small_airport","Fazenda Mainau Airstrip",-9.943083,-38.520339,1276,"SA","BR","BR-BA","Jeremoabo","no",,,"SSA3","BA0512",,,
@@ -79420,8 +79420,7 @@
 311043,"VN-0074","closed","Vinh Long Airfield",10.2509,105.9445,27,"AS","VN","VN-SW","Vinh Long","no",,,,,,,"Vinh Long Airbase, XVL"
 319516,"VN-0075","closed","Long Xuyên Airport",10.330134,105.473144,12,"AS","VN","VN-SW","Long Xuyên","no",,,,,,"https://vi.wikipedia.org/wiki/S%C3%A2n_bay_Long_Xuy%C3%AAn","XLO, Vam Cong"
 319521,"VN-0076","closed","Quảng Ngãi Airfield",15.115474,108.771816,50,"AS","VN","VN-SCC","Quảng Ngãi","no",,,,,,"https://en.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i_Airfield","XNG, XNG"
-601024,"VN-0077","medium_airport","pg88cocom",23,102,,"AS","VN","VN-CH",,"no",,,,,"https://pg88.co.com/",,
-601029,"VN-0078","large_airport","fun88comlive",90,89,,"AS","VN","VN-CH","Hà Nội","no",,,,,"https://fun88com.live/",,
+601036,"VN-0079","large_airport","fun888itcom",24,105,,"AS","VN","VN-U-A","Hà Nội, Vietnam","no",,,,,"https://fun888.it.com/",,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
