@@ -16779,7 +16779,7 @@
 40035,"CA-0389","closed","Tununuk DEW Line Station",69.002603,-134.671957,,"NA","CA","CA-NT",,"no",,,,,,,
 40036,"CA-0390","closed","Twin Lakes Airport",51.564534,-123.824673,,"NA","CA","CA-BC","Cariboo","no",,,,,,,"AG4"
 40037,"CA-0391","small_airport","Ullswater Airport",45.2107,-79.5045,1012,"NA","CA","CA-ON","Ullswater","no",,,"CLW2","CLW2",,"https://en.wikipedia.org/wiki/Ullswater_Aerodrome","PN5"
-40038,"CA-0392","closed","Dunphy Airport",46.62863540649414,-65.87196350097656,,"NA","CA","CA-NB","Upper Blackville","no",,,,,,,
+40038,"CA-0392","closed","Dunphy Airport",46.628622,-65.872109,,"NA","CA","CA-NB","Upper Blackville","no",,,,,,,"CC3, Bergins Hill,"
 40039,"CA-0393","small_airport","Upper Kent Airport",46.587133,-67.719555,246,"NA","CA","CA-NB","Upper Kent","no",,,"CCH2","CCH2",,"https://en.wikipedia.org/wiki/Upper_Kent_Aerodrome","CH2"
 40040,"CA-0394","closed","Utikuma River Airport",56.056319,-115.323086,2110,"NA","CA","CA-AB",,"no",,,,,,,"EK5"
 40041,"CA-0395","closed","Valemount Aerodrome",52.865732,-119.295711,2575,"NA","CA","CA-BC","Valemount","no",,,,,,,"AH4"
@@ -17403,7 +17403,7 @@
 732,"CA-1013","closed","Terrace / BC Hydro Heliport",54.5192008823,-128.628015518,195,"NA","CA","CA-BC","Terrace","no",,,,,,,"BW5, CBW5, CBW5"
 744,"CA-1014","closed","Apple River Airport",45.461899,-64.821404,135,"NA","CA","CA-NS","Apple River","no",,,,,,"https://en.wikipedia.org/wiki/Apple_River_Airport","CCA7"
 745,"CA-1015","closed","Grand River Airport",46.481269,-63.95368,50,"NA","CA","CA-PE","Grand River","no",,,,,,"https://en.wikipedia.org/wiki/Grand_River_Airport","PEI, Moase Airfield, CCA9"
-778,"CA-1016","closed","Campbellton (Regional Hospital) Heliport",47.9941758761,-66.6654655337,76,"NA","CA","CA-NB","Campbellton","no",,,,,,,"CRH, CCRH, CCRH"
+778,"CA-1016","closed","Campbellton (Regional Hospital) Heliport",47.994176,-66.665466,76,"NA","CA","CA-NB","Campbellton","no",,,,,,,"CCRH"
 798,"CA-1017","closed","Valley Airport",45.396702,-63.215599,175,"NA","CA","CA-NS","Valley","no",,,,,,"https://en.wikipedia.org/wiki/Valley_Airport","CDA3"
 809,"CA-1018","closed","Deerhurst Resort Airport",45.354198,-79.151398,1029,"NA","CA","CA-ON","Huntsville","no",,,,,,"https://en.wikipedia.org/wiki/Huntsville/Deerhurst_Resort_Airport","DH1, CDH1"
 822,"CA-1019","closed","Dunnville Airport",42.8722,-79.595802,600,"NA","CA","CA-ON","Dunnville","no",,,,,,"https://en.wikipedia.org/wiki/Dunnville_Airport","DU9, BCATP, CDU9, RCAF Dunnville"
@@ -18245,7 +18245,7 @@
 820,"CDU3","heliport","Yarmouth (Regional Hospital) Heliport",43.848668441,-66.1210119724,43,"NA","CA","CA-NS","Yarmouth","no",,,"CDU3","CDU3",,,"DU3"
 28425,"CDU4","seaplane_base","Springdale/Davis Pond Seaplane Base",49.550052,-56.064591,80,"NA","CA","CA-NL","Springdale","no",,,"CDU4","CDU4",,"https://en.wikipedia.org/wiki/Springdale/Davis_Pond_Water_Aerodrome","DU4"
 508577,"CDU5","small_airport","Dunsford Airport",44.454667,-78.630522,900,"NA","CA","CA-ON","Dunsford","no",,,"CDU5","CDU5",,"https://en.wikipedia.org/wiki/Dunsford_Aerodrome",
-821,"CDU6","small_airport","Doaktown Airport",46.5525016784668,-66.09390258789062,326,"NA","CA","CA-NB","Doaktown","no",,,"CDU6","CDU6",,"https://en.wikipedia.org/wiki/Doaktown_Airport","DU6"
+821,"CDU6","small_airport","Doaktown Airport",46.552502,-66.093903,326,"NA","CA","CA-NB","Doaktown","no",,,"CDU6","CDU6",,"https://en.wikipedia.org/wiki/Doaktown_Airport",
 508575,"CDU8","heliport","Dunsford Heliport",44.502,-78.617833,854,"NA","CA","CA-ON","Dunsford","no",,,"CDU8","CDU8",,,
 823,"CDV2","small_airport","Downs Gulch Airport",47.753601,-67.426102,883,"NA","CA","CA-NB","Downs Gulch","no",,,"CDV2","CDV2",,"https://en.wikipedia.org/wiki/Downs_Gulch_Aerodrome","DV2"
 824,"CDV3","heliport","Charlottetown (Queen Elizabeth Hospital) Heliport",46.255493,-63.098887,20,"NA","CA","CA-PE","Charlottetown","no",,,"CDV3","CDV3",,,"DV3"
@@ -22443,6 +22443,7 @@
 599124,"DE-0921","small_airport","Altstetten Ultralight Field",48.30629,11.28652,,"EU","DE","DE-BY","Altstetten","yes",,,,,,,
 599479,"DE-0922","heliport","Frankfurt am Main Accident Hospital Roof Helipad",50.145472,8.708981,,"EU","DE","DE-HE","Frankfurt","no",,,,,,,
 600033,"DE-0923","small_airport","Colnrade Ultralight Field",52.83994,8.50037,,"EU","DE","DE-NI",,"no",,,,,"https://easy-flying.jimdosite.com/",,
+601208,"DE-0924","small_airport","Worth Ultralight strip",53.4769,10.40871,,"EU","DE","DE-SH",,"no",,,,,,,
 17115,"DE00","small_airport","Doyle's Airport",39.02069854736328,-75.57710266113281,51,"NA","US","US-DE","Felton","no",,,"DE00","DE00",,,
 17117,"DE02","heliport","Delaware State Police Heliport",39.20009994506836,-75.53299713134766,50,"NA","US","US-DE","Dover","no",,,"DE02","DE02",,,
 17118,"DE03","heliport","Dover Downs Helistop",39.18339920043945,-75.52459716796875,28,"NA","US","US-DE","Dover","no",,,"DE03","DE03",,,
@@ -27600,6 +27601,7 @@
 600606,"FR-1319","heliport","ESQUERCHIN DZ",50.373581,3.013494,,"EU","FR","FR-HDF","Esquerchin","no",,,,,,,
 600610,"FR-1320","heliport","HASNON DZ",50.425498,3.382201,,"EU","FR","FR-HDF","Hasnon","no",,,,,,,
 600734,"FR-1321","heliport","Château de Champlâtreux",49.08615,2.408645,,"EU","FR","FR-IDF","Épinay-Champlâtreux","no",,,,,,,
+601207,"FR-1322","small_airport","Sèvremoine Ultralight strip",47.01879,-1.03036,,"EU","FR","FR-PDL",,"no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assumption Island Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assumption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -53769,7 +53771,7 @@
 530233,"RE-0009","small_airport","Grand Coude Altisurface",-21.288889,55.623611,3250,"AF","RE","RE-SR","Grand Coude","no",,,,"LF9743",,,
 301586,"RH8H","heliport","N 210 Helipad",37.754574,126.595346,415,"AS","KR","KR-41",,"no",,,"RK8H","RK8H",,,
 314557,"RHT","small_airport","Alxa Right Banner Badanjilin Airport",39.225,101.546,4659,"AS","CN","CN-15","Badanjilin","yes","ZBAR","RHT","ZBAR",,,"https://en.wikipedia.org/wiki/Alxa_Right_Banner_Badanjilin_Airport",
-24341,"RI01","heliport","Kent County Memorial Hospital Heliport",41.70539855957031,-71.47699737548828,104,"NA","US","US-RI","Warwick","no",,,"RI01","RI01",,,
+24341,"RI01","heliport","Kent County Memorial Hospital Heliport",41.707258,-71.477545,104,"NA","US","US-RI","Warwick","no",,,"RI01","RI01",,,
 45776,"RI02","heliport","Grayrock Ridge Heliport",41.949311,-71.415397,314,"NA","US","US-RI","Cumberland","no",,,"RI02","RI02",,,
 24343,"RI06","seaplane_base","Tiverton Seaplane Base",41.64820098876953,-71.15390014648438,205,"NA","US","US-RI","Tiverton","no",,,"RI06","RI06",,,
 24344,"RI07","small_airport","Wing-Over Farm Airport",41.57899856567383,-71.1417007446289,113,"NA","US","US-RI","Tiverton","no",,,"RI07","RI07",,,
@@ -53782,7 +53784,7 @@
 24356,"RI23","heliport","Westerly Hospital Heliport",41.36259841918945,-71.82369995117188,120,"NA","US","US-RI","Westerly","no",,,"RI23","RI23",,,
 24357,"RI24","heliport","Duke Heliport",41.45589828491211,-71.30509948730469,34,"NA","US","US-RI","Newport","no",,,"RI24","RI24",,,
 24358,"RI25","heliport","Rhode Island Hospital Heliport",41.810191,-71.409504,22,"NA","US","US-RI","Providence","no",,,"RI25","RI25",,,
-24359,"RI26","heliport","Landmark Medical Center Heliport",42.00429916381836,-71.49420166015625,202,"NA","US","US-RI","Woonsocket","no",,,"RI26","RI26",,,
+24359,"RI26","heliport","Landmark Medical Center Heliport",42.003756,-71.495115,202,"NA","US","US-RI","Woonsocket","no",,,"RI26","RI26",,,
 24360,"RI28","seaplane_base","Plouffe Landing Seaplane Base",41.87530136,-71.59030151,328,"NA","US","US-RI","Glocester","no",,,"RI28","RI28",,,
 24361,"RI30","heliport","East Arnolda Farm Heliport",41.3787,-71.641218,30,"NA","US","US-RI","Charlestown","no",,,"RI30","RI30",,,
 300123,"RJ01","heliport","Akasaka Press Center (Hardy Barracks) Heliport",35.663333,139.725556,97,"AS","JP","JP-13","Minato, Tokyo","no",,,"RJ01",,,,"akasaka press center, hardy barracks, azabu"
