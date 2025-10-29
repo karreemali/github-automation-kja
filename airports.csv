@@ -15781,14 +15781,14 @@
 37378,"BR-2897","heliport","Birmann 31 Heliport",-23.590109,-46.682012,2618,"SA","BR","BR-SP","São Paulo","no",,,,"SP0594",,,"SNZS"
 37383,"BR-2898","small_airport","Fazenda Bandeira Airport",-21.999513,-50.596862,1450,"SA","BR","BR-SP","Tupã","no",,,,,,,"SWQM, SNZY"
 37390,"BR-2899","small_airport","Fazenda Esperança Airport",-22.275557,-53.311943,1109,"SA","BR","BR-MS","Bataiporã","no",,,,,,,"SSAJ"
-37392,"BR-2900","small_airport","Amambaí Airport",-23.142778,-55.207779,1542,"SA","BR","BR-MS","Amambaí","no",,,,"SSAM",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Amambai","SSAM"
-37396,"BR-2901","small_airport","Fazenda Japecanga Airport",-20.803995,-54.079343,1493,"SA","BR","BR-MS","Ribas Do Rio Pardo","no",,,,"SSAW",,,"SSAW"
-37397,"BR-2902","small_airport","Fazenda Bela Vista Airport",-19.031944,-53.671112,2017,"SA","BR","BR-MS","Camapuã","no",,,,"SSBA",,,"SSBA"
-37399,"BR-2903","small_airport","Sobradinho Airport",-29.396898,-52.99117,1444,"SA","BR","BR-RS","Sobradinho","no",,,,"RS0051",,,"SSBD, BR-2903"
-37402,"BR-2904","small_airport","Fazenda Baia do Lara Airport",-17.567778,-55.287945,453,"SA","BR","BR-MS","Corumbá","no",,,,"SSBH",,,"SSBH"
-37407,"BR-2905","small_airport","Palmares Airport",-28.722221374512,-54.89083480835,787,"SA","BR","BR-RS","Bossoroca","no",,,,"SSBO",,,"SSBO"
-37410,"BR-2906","small_airport","Fazenda Boa Esperança Airport",-21.249166488647,-52.289443969727,1155,"SA","BR","BR-MS","Brasilândia","no",,,,"SSBS",,,"SSBS"
-37424,"BR-2907","small_airport","Estância Ema Airport",-20.615689,-54.724875,1968,"SA","BR","BR-MS","Campo Grande","no",,,,"SSCS",,,"SSCS"
+37392,"BR-2900","small_airport","Amambaí Airport",-23.14405,-55.207684,1542,"SA","BR","BR-MS","Amambaí","no",,,,,,"https://pt.wikipedia.org/wiki/Aeroporto_de_Amambai","SSAM"
+37396,"BR-2901","small_airport","Fazenda Japecanga Airport",-20.803995,-54.079343,1493,"SA","BR","BR-MS","Ribas Do Rio Pardo","no",,,,,,,"SSAW"
+37397,"BR-2902","small_airport","Fazenda Bela Vista Airport",-19.031944,-53.671112,2017,"SA","BR","BR-MS","Camapuã","no",,,,,,,"SSBA"
+37399,"BR-2903","small_airport","Sobradinho Airport",-29.396898,-52.99117,1444,"SA","BR","BR-RS","Sobradinho","no",,,,"RS0051",,,"SSBD"
+37402,"BR-2904","small_airport","Fazenda Baia do Lara Airport",-17.567778,-55.287945,453,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SSBH"
+37407,"BR-2905","small_airport","Palmares Airport",-28.722221,-54.890835,787,"SA","BR","BR-RS","Bossoroca","no",,,,,,,"SSBO"
+37410,"BR-2906","small_airport","Fazenda Boa Esperança Airport",-21.249166,-52.289444,1155,"SA","BR","BR-MS","Brasilândia","no",,,,,,,"SSBS"
+37424,"BR-2907","small_airport","Estância Ema Airport",-20.615689,-54.724875,1968,"SA","BR","BR-MS","Campo Grande","no",,,,,,,"SSCS"
 37432,"BR-2908","small_airport","Fazenda Barra Dourada Airport",-21.993932,-54.245632,1083,"SA","BR","BR-MS","Dourados","no",,,,"SSDE",,,"SSDE"
 37433,"BR-2909","small_airport","Fazenda São José Airport",-20.099443435669,-57.346111297607,312,"SA","BR","BR-MS","Corumbá","no",,,,"SSDF",,,"SSDF"
 37435,"BR-2910","small_airport","Fazenda Bonanza Airport",-19.050832748413,-54.064998626709,1252,"SA","BR","BR-MS","Camapuã","no",,,,"SSDJ",,,"SSDJ"
@@ -16085,7 +16085,7 @@
 45611,"BR-3201","heliport","Hospital Municipal Dr. Fernando Pereira da Silva Heliport",-22.356111,-41.805833,10,"SA","BR","BR-RJ","Macaé","no",,,,"SWOH",,,"SWOH"
 45612,"BR-3202","heliport","Hospital Municipal Ronaldo Gazolla Heliport",-22.825556,-43.347222,102,"SA","BR","BR-RJ","Rio De Janeiro","no",,,,"SSHP",,,"SSHP"
 45613,"BR-3203","heliport","Le Canton Heliport",-22.385476,-42.853568,2726,"SA","BR","BR-RJ","Teresópolis","no",,,,"SDVY",,,"SDVY"
-45616,"BR-3204","heliport","Termoaçu Heliport",-5.3825,-36.821944,72,"SA","BR","BR-RN","Alto Do Rodrigues","no",,,,"SNJY",,,"SNJY"
+45616,"BR-3204","heliport","Petrobras Vale do Açu Heliport.",-5.382473,-36.821758,72,"SA","BR","BR-RN","Alto do Rodrigues","no",,,"SS7D","RN0022","https://www.fiern.org.br/petrobras-e-isi-er-dao-largada-primeira-planta-piloto-para-producao-de-hidrogenio-renovavel/",,"SNJY, Termoaçu Heliport"
 45630,"BR-3205","heliport","Estância Flamboyants Heliport",-21.866866,-47.628715,2336,"SA","BR","BR-SP","Descalvado","no",,,,"SDVX",,,"SDVX"
 45632,"BR-3206","small_airport","Fazenda Boa Sorte Airport",-21.918889,-50.64074,1398,"SA","BR","BR-SP","Iacri","no",,,,"SNKW",,,"SNKW"
 45639,"BR-3207","heliport","Hospital Dr.Osíris Florindo Coelho Heliport",-23.537778,-46.358056,2723,"SA","BR","BR-SP","Ferraz De Vasconcelos","no",,,,"SDVR",,,"SDVR"
@@ -23985,6 +23985,7 @@
 526392,"EHFO","heliport","F15-A",54.21583,4.82722,,"EU","NL","NL-XX",,"no",,,"EHFO",,,,
 526405,"EHFQ","heliport","L2-FA-1",53.96056,4.49611,,"EU","NL","NL-XX",,"no",,,"EHFQ",,,,
 526401,"EHFR","heliport","L5-FA-1",53.81083,4.35111,,"EU","NL","NL-XX",,"no",,,"EHFR",,,,
+601257,"EHFS","heliport","KNMI Weather Station",51.441372,3.595994,3,"EU","NL","NL-ZL","Vlissingen","no",,,,,,,"KNMI, weather station, EHFS, not an airport"
 526400,"EHFT","heliport","L5-D",53.81806,4.51278,,"EU","NL","NL-XX",,"no",,,"EHFT",,,,
 2519,"EHGG","medium_airport","Groningen Airport Eelde",53.119701,6.57944,17,"EU","NL","NL-DR","Groningen","yes","EHGG","GRQ","EHGG",,,"https://en.wikipedia.org/wiki/Groningen_Airport_Eelde",
 526398,"EHGN","heliport","G14-A",54.22389,5.49861,,"EU","NL","NL-XX",,"no",,,"EHGN",,,,
@@ -60914,6 +60915,9 @@
 340301,"SN-0002","closed","Abéné Airfield",13.0101,-16.7213,,"AF","SN","SN-ZG","Abéné","no",,,,,,,
 340302,"SN-0003","small_airport","Djilor Pout Pout Airport",14.0866,-16.6659,,"AF","SN","SN-FK","Djilor","no",,,,,,,
 340303,"SN-0004","small_airport","Saly-Joseph Aerodrome",14.4646,-17.0136,,"AF","SN","SN-TH","Saly","no",,,,,,,
+601259,"SN-0005","closed","Diourbel Airfield",14.651477,-16.187325,,"AF","SN","SN-DB","Diourbel","no",,,,,,,"GOOD"
+601260,"SN-0006","closed","Ouakam Airfield",14.709803,-17.476373,,"AF","SN","SN-DK","Dakar","no",,,,,,"https://en.wikipedia.org/wiki/Ouakam_Airfield",
+601284,"SN-0007","closed","Eknes Airfield",14.729636,-17.237978,,"AF","SN","SN-DK",,"no",,,,,,,
 24580,"SN00","small_airport","J Roesner Airport",38.846900939941406,-97.55030059814453,1211,"NA","US","US-KS","Salina","no",,,"SN00","SN00",,,
 24581,"SN01","heliport","Dwight Eisenhower Va Medical Center Heliport",39.282798767089844,-94.88800048828125,897,"NA","US","US-KS","Leavenworth","no",,,"SN01","SN01",,,
 24582,"SN02","small_airport","Wright International Airport",39.40829849243164,-102.02100372314453,3883,"NA","US","US-KS","Kanorado","no",,,"SN02","SN02",,,
@@ -62116,6 +62120,17 @@
 600834,"SS79","heliport","Gratidão Heliport",-26.766222,-48.680967,16,"SA","BR","BR-SC","Balneário Piçarras","no",,,"SS79","SC0251",,,
 600836,"SS7A","heliport","Marina Escarpas Heliport",-20.627328,-46.019608,2566,"SA","BR","BR-MG","Capitólio","no",,,"SS7A","MG0629",,,
 600837,"SS7B","small_airport","Fazenda Pardes Airport",-11.014856,-61.933481,548,"SA","BR","BR-RO","Presidente Médici","no",,,"SS7B","RO0113",,,
+601262,"SS7E","small_airport","Fazenda Santa Beatriz Airport",-16.321419,-46.223564,2930,"SA","BR","BR-MG","Riachinho","no",,,"SS7E","MG0644",,,
+601263,"SS7F","small_airport","Fazenda Mata do Lobo Airport",-18.130484,-50.724837,2779,"SA","BR","BR-GO","Rio Verde","no",,,"SS7F","GO0398",,,
+601266,"SS7G","small_airport","Fazenda Amazônia Airport",-4.250887,-46.588374,545,"SA","BR","BR-MA","Bom Jardim","no",,,"SS7G","MA0206",,,
+601268,"SS7H","small_airport","Fazenda Umuarama Airstrip",-11.706389,-44.602181,1467,"SA","BR","BR-BA","Cotegipe","no",,,"SS7H","BA0496",,,
+601270,"SS7J","small_airport","APAAM Sports Airport",-12.990251,-55.957558,1296,"SA","BR","BR-MT","Lucas do Rio Verde","no",,,"SS7J","MT1118",,,
+601274,"SS7K","small_airport","Santo Antônio Airport",-15.962045,-57.195582,558,"SA","BR","BR-MT","Cáceres","no",,,"SS7K","MT1113",,,
+601276,"SS7L","small_airport","Fazenda Formigueiro Airport",-28.718544,-55.267326,466,"SA","BR","BR-RS","Itacurubi","no",,,"SS7L","RS0222",,,
+601278,"SS7M","heliport","Vinícola Terra de Carvalho Heliport",-22.260708,-46.694097,2762,"SA","BR","BR-MG","Jacutinga","no",,,"SS7M","MG0638",,,
+601280,"SS7N","small_airport","Fazenda Aliança Airport",-8.244556,-44.986467,1739,"SA","BR","BR-PI","Baixa Grande do Ribeiro","no",,,"SS7N","PI0119",,,
+601253,"SS7O","small_airport","Fazenda Paulista Airport",-21.582802,-51.709149,966,"SA","BR","BR-SP","Ouro Verde","no",,,"SS7O","SP1493",,,
+601282,"SS7P","small_airport","PRG 1 Airstrip",-10.398507,-46.037832,2585,"SA","BR","BR-TO","Mateiros","no",,,"SS7P","TO0156",,,
 598551,"SS7Z","small_airport","Fazenda Paraiso Arpa Airport",-11.298736,-49.63974,650,"SA","BR","BR-TO","Dueré","no",,,"SS7Z","TO0154",,,
 598536,"SS82","small_airport","Carará Airport",-0.075011,-53.11976,529,"SA","BR","BR-PA","Almeirim","no",,,"SS82","PA0426",,,
 598535,"SS83","small_airport","Fazenda Cochilo Airport",-17.118721,-45.421015,1850,"SA","BR","BR-MG","Buritizeiro","no",,,"SS83","MG0633",,,
