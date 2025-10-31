@@ -16434,7 +16434,7 @@
 39690,"CA-0044","closed","Belledune Airport",47.892754,-65.827589,33,"NA","CA","CA-NB","Belledune","no",,,,,,,"CD5"
 39691,"CA-0045","closed","Bennett Field Airport",65.0309303519,-124.666671753,,"NA","CA","CA-NT",,"no",,,,,,,
 39692,"CA-0046","closed","Berland Airport",54.0936811465,-117.407627106,4015,"NA","CA","CA-AB","Berland","no",,,,,,,"EY2, EY2"
-39693,"CA-0047","closed","Bernard Harbour DEW Line Station",68.78287,-114.826611,,"NA","CA","CA-NU","Bernard Harbour","no",,,,,,,
+39693,"CA-0047","closed","Bernard Harbour DEW Line Station",68.78287,-114.826611,,"NA","CA","CA-NU","Bernard Harbour","no",,,,,,"https://en.wikipedia.org/wiki/North_Warning_System#PIN-CB","PIN-CB"
 39694,"CA-0048","closed","Bethany Airport",50.349998474121094,-99.75,,"NA","CA","CA-MB",,"no",,,,,,,
 39695,"CA-0049","closed","Big Creek Airport",51.726497,-123.027134,,"NA","CA","CA-BC","Big Creek","no",,,,,,,
 39696,"CA-0050","closed","Bird Airport",56.507241,-94.204213,,"NA","CA","CA-MB","Bird","no",,,,,,,
@@ -16464,7 +16464,7 @@
 39720,"CA-0074","closed","Campbellford Airport",44.404209,-77.760331,,"NA","CA","CA-ON","Campbellford","no",,,,,,,
 39721,"CA-0075","closed","Terra Mining Airport",65.609152,-118.141592,550,"NA","CA","CA-NT","Camsell River","no",,,,,,,"FS3, FS3"
 39722,"CA-0076","closed","Cape Christian Airport",70.51667022705078,-68.30000305175781,,"NA","CA","CA-NU",,"no",,,,,,,
-39723,"CA-0077","closed","Cape Dyer Airport",66.59,-61.5732,1290,"NA","CA","CA-NU","Cape Dyer","no",,,,,,,"CYVN, YVN"
+39723,"CA-0077","closed","Cape Dyer Airport",66.590779,-61.574931,1290,"NA","CA","CA-NU","Cape Dyer","no",,,,,,"https://en.wikipedia.org/wiki/North_Warning_System#DYE-M","YVN"
 39724,"CA-0078","closed","Cape Hooper DEW Line Station",68.461401,-66.838847,58,"NA","CA","CA-NU","Cape Hooper","no",,,,,,,"YUZ"
 39725,"CA-0079","closed","Cape Jones Airport",54.63333511352539,-79.69999694824219,,"NA","CA","CA-QC",,"no",,,,,,,
 39726,"CA-0080","closed","Cape Parry DEW Line Station",70.166765,-124.693969,39,"NA","CA","CA-NT","Cape Parry","no",,,,,,,"ZUE"
@@ -16494,7 +16494,7 @@
 39750,"CA-0104","closed","Crawfish Lake Airport",49.70000076293945,-126.76667022705078,,"NA","CA","CA-BC",,"no",,,,,,,
 39751,"CA-0105","closed","Cree Lake Airport",57.36666488647461,-107.13333129882812,,"NA","CA","CA-SK",,"no",,,,,,,
 39752,"CA-0106","closed","Crooked Lake Airport",72.66666412353516,-98.5,,"NA","CA","CA-NU",,"no",,,,,,,
-39753,"CA-0107","closed","Cullaton Lake Airport",61.31666564941406,-98.5,,"NA","CA","CA-NU",,"no",,,,,,,
+39753,"CA-0107","closed","Cullaton Lake Airport",61.315295,-98.492502,768,"NA","CA","CA-NU",,"no",,,,,,,
 39754,"CA-0108","closed","Culloden Airport",42.883333,-80.866669,938,"NA","CA","CA-ON",,"no",,,,,,,"PQ2, PQ2"
 39755,"CA-0109","closed","Cypre River Airport",49.257414,-125.938897,,"NA","CA","CA-BC",,"no",,,,,,,"BK3, BK3"
 42746,"CA-0110","closed","Cap-de-la-Madeleine",46.38056945800781,-72.53002166748047,,"NA","CA","CA-QC",,"no",,,,,,"https://en.wikipedia.org/wiki/List_of_British_Commonwealth_Air_Training_Plan_facilities_in_Canada","bcatp,military"
@@ -18686,7 +18686,7 @@
 1084,"CJK3","small_airport","Beauval Airport",55.11029815673828,-107.71600341796875,1436,"NA","CA","CA-SK","Beauval","no",,,"CJK3","CJK3",,"https://en.wikipedia.org/wiki/Beauval_Airport","JK3"
 1085,"CJK4","small_airport","Esterhazy Airport",50.642799377441406,-102.0999984741211,1700,"NA","CA","CA-SK","Esterhazy","no",,,"CJK4","CJK4",,"https://en.wikipedia.org/wiki/Esterhazy_Airport","JK4"
 1086,"CJK5","small_airport","Gull Lake Airport",50.05780029296875,-108.48999786376953,2665,"NA","CA","CA-SK","Gull Lake","no",,,"CJK5","CJK5",,"https://en.wikipedia.org/wiki/Gull_Lake_Airport","JK5"
-28166,"CJK6","seaplane_base","Baker Lake Seaplane Base",64.316704,-96.016701,8,"NA","CA","CA-NU","Baker Lake","no",,,"CJK6","CJK6",,"https://en.wikipedia.org/wiki/Baker_Lake_Water_Aerodrome","JK6"
+28166,"CJK6","seaplane_base","Baker Lake Seaplane Base",64.314,-96.014,8,"NA","CA","CA-NU","Baker Lake","no",,,"CJK6","CJK6",,"https://en.wikipedia.org/wiki/Baker_Lake_Water_Aerodrome","JK6"
 28221,"CJK8","seaplane_base","Flin Flon/Channing Seaplane Base",54.746415,-101.828,957,"NA","CA","CA-MB","Flin Flon","no",,,"CJK8","CJK8",,"https://en.wikipedia.org/wiki/Flin_Flon/Channing_Water_Aerodrome","JK8"
 1087,"CJK9","small_airport","Preeceville Airport",51.95000076293945,-102.6500015258789,1750,"NA","CA","CA-SK","Preeceville","no",,,"CJK9","CJK9",,"https://en.wikipedia.org/wiki/Preeceville_Airport","JK9"
 1088,"CJL2","small_airport","Hatchet Lake Airport",58.662498474121,-103.53800201416,1362,"NA","CA","CA-SK","Hatchet Lake","no",,"YDJ","CJL2","CJL2",,"https://en.wikipedia.org/wiki/Hatchet_Lake_Airport","JL2"
@@ -20564,7 +20564,7 @@
 316499,"CUJ","small_airport","Culion Airport",11.8553,119.9378,155,"AS","PH","PH-PLW","Culion","no",,"CUJ",,,,,"Patag Airstrip"
 598853,"CV-0001","closed","Francisco Mendes International Airport",14.9261,-23.4948,229,"AF","CV","CV-S","Praia","no",,,,,,"https://en.wikipedia.org/wiki/Francisco_Mendes_International_Airport","RAI, GVFM"
 508894,"CVA3","heliport","Valhalla Heliport",49.867697,-119.560701,1539,"NA","CA","CA-BC","Kelowna","no",,,"CVA3","CVA3",,,
-44471,"CVB2","small_airport","Voisey's Bay Airport",56.344722,-62.088056,,"NA","CA","CA-NL","Natuashish","no",,,"CVB2","CVB2",,"https://en.wikipedia.org/wiki/Voisey%27s_Bay_Aerodrome",
+44471,"CVB2","small_airport","Voisey's Bay Airport",56.344722,-62.088056,246,"NA","CA","CA-NL","Natuashish","no",,,"CVB2","CVB2",,"https://en.wikipedia.org/wiki/Voisey%27s_Bay_Aerodrome",
 508471,"CVC2","seaplane_base","Voyageur Channel Water Aerodrome",45.950415,-81.031109,570,"NA","CA","CA-ON","Round Lake","no",,,"CVC2","CVC2",,"https://en.wikipedia.org/wiki/Voyageur_Channel_Water_Aerodrome",
 46627,"CVF2","small_airport","Vodarek Field",43.723387,-80.289659,1380,"NA","CA","CA-ON","Centre Wellington","no",,,"CVF2",,,"https://en.wikipedia.org/wiki/Fergus_(Vodarek_Field)_Aerodrome","VF2, Fergus"
 508444,"CVF3","small_airport","Bethany / Whitetail Valley Farm Airfield",44.21647,-78.554102,1051,"NA","CA","CA-ON","Kawartha Lakes","no",,,"CVF3",,,,
@@ -20999,7 +20999,7 @@
 1935,"CYVG","small_airport","Vermilion Airport",53.357714,-110.827388,2025,"NA","CA","CA-AB","Vermilion","no","CYVG","YVG","CYVG","YVG",,"https://en.wikipedia.org/wiki/Vermilion_Airport","YVG"
 1936,"CYVK","medium_airport","Vernon Regional Airport",50.246163,-119.330963,1140,"NA","CA","CA-BC","Vernon","no","CYVK","YVE","CYVK",,,"https://en.wikipedia.org/wiki/Vernon_Regional_Airport","YVK"
 314953,"CYVL","small_airport","Tommy Kochon Airport",67.02,-126.126,870,"NA","CA","CA-NT","Colville Lake","yes","CYVL","YCK","CYVL",,,"https://en.wikipedia.org/wiki/Colville_Lake/Tommy_Kochon_Aerodrome",
-1937,"CYVM","small_airport","Qikiqtarjuaq Airport",67.54656,-64.03141,21,"NA","CA","CA-NU","Qikiqtarjuaq","yes","CYVM","YVM","CYVM",,,"https://en.wikipedia.org/wiki/Qikiqtarjuaq_Airport",
+1937,"CYVM","small_airport","Qikiqtarjuaq Airport",67.54656,-64.03141,21,"NA","CA","CA-NU","Qikiqtarjuaq","yes","CYVM","YVM","CYVM",,,"https://en.wikipedia.org/wiki/Qikiqtarjuaq_Airport","Broughton Island"
 1938,"CYVO","medium_airport","Val-d'Or Airport",48.0532989502,-77.7827987671,1107,"NA","CA","CA-QC","Val-d'Or","yes","CYVO","YVO","CYVO",,"http://www.arvo.qc.ca/","https://en.wikipedia.org/wiki/Val-d'Or_Airport",
 1939,"CYVP","medium_airport","Kuujjuaq Airport",58.096099853515625,-68.4269027709961,129,"NA","CA","CA-QC","Kuujjuaq","yes","CYVP","YVP","CYVP",,,"https://en.wikipedia.org/wiki/Kuujjuaq_Airport",
 1940,"CYVQ","medium_airport","Norman Wells Airport",65.28160095214844,-126.7979965209961,238,"NA","CA","CA-NT","Norman Wells","yes","CYVQ","YVQ","CYVQ",,,"https://en.wikipedia.org/wiki/Norman_Wells_Airport",
@@ -24264,7 +24264,7 @@
 324008,"ENEN","small_airport","Engeløy Airfield",67.967222,14.9925,10,"EU","NO","NO-18","Engeløy","no",,,"ENEN",,"http://www.engeloyflyplass.no","https://en.wikipedia.org/wiki/Engel%C3%B8y_Airport,_Gr%C3%A5dussan",
 2575,"ENEV","medium_airport","Harstad/Narvik Airport, Evenes",68.491302490234,16.678100585938,84,"EU","NO","NO-18","Evenes","yes","ENEV","EVE","ENEV",,"https://avinor.no/en/airport/harstadnarvik-airport/","https://en.wikipedia.org/wiki/Harstad/Narvik_Airport%2C_Evenes","Harstad/Narvik lufthavn, Evenes"
 29258,"ENFA","small_airport","Flatval Airfield",63.7006,8.76057,152,"EU","NO","NO-50","Frøya","no",,,"ENFA",,,"https://no.wikipedia.org/wiki/Fr%C3%B8ya_flyplass,_Flatval",
-526544,"ENFB","heliport","Statfjord B",61.20639,1.82889,,"EU","NO","NO-XX",,"no",,,"ENFB",,,,
+526544,"ENFB","heliport","Statfjord B",61.20639,1.82889,,"EU","NO","NO-XX",,"no","ENFB",,"ENFB",,,,
 329176,"ENFD","heliport","Førde Central Hospital Heliport",61.456302,5.890432,19,"EU","NO","NO-46","Førde","no",,,"ENFD",,,"https://en.wikipedia.org/wiki/F%C3%B8rde_Heliport,_Central_Hospital",
 2576,"ENFG","small_airport","Fagernes Airport, Leirin",61.015598,9.28806,2697,"EU","NO","NO-34","Fagernes","no",,,,,"https://avinor.no/en/airport/fagernes-airport/","https://en.wikipedia.org/wiki/Fagernes_Airport%2C_Leirin","VDB, ENFG"
 319098,"ENFJ","heliport","Fedje Heliport, Høgden",60.765738,4.733014,,"EU","NO","NO-46","Fedje","no",,,"ENFJ",,,"https://en.wikipedia.org/wiki/Fedje_Heliport,_H%C3%B8gden",
